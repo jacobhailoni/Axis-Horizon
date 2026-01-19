@@ -126,9 +126,9 @@ const MobileMenu: React.FC = () => {
           <i className="fa fa-angle-down" />
         </div>
       </li> */}
-      <li className="dropdown">
-        <Link href="#">Services</Link>
-        <ul
+      <li>
+        <Link href="/page-services">Services</Link>
+        {/* <ul
           className={
             isActive.key === "services" ? "sub-menu d-block" : "d-none"
           }
@@ -146,7 +146,7 @@ const MobileMenu: React.FC = () => {
           aria-expanded={isActive.key === "services"}
         >
           <i className="fa fa-angle-down" />
-        </div>
+        </div> */}
       </li>
       <li className="dropdown">
         <Link href="#">Projects</Link>
