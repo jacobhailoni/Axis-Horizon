@@ -1,37 +1,39 @@
 import React from "react";
 import Layout from "../layouts/MainLayout";
-import Banner from "../components/sections/Home1/Banner";
-import About from "../components/sections/Home1/About";
-import Service from "../components/sections/Home1/Service";
-import Work from "../components/sections/Home1/Work";
-import Project from "../components/sections/Home1/Project";
-import Video from "../components/sections/Home1/Video";
-import Team from "../components/sections/Home1/Team1";
-import Testimonial from "../components/sections/Home1/Testimonial";
-import Process from "../components/sections/Home1/Process";
-import Blog from "../components/sections/Home1/Blog";
-import Cta from "../components/sections/Home1/Cta";
-import Clients from "../components/sections/Home1/Clients";
+import Banner from "../components/sections/Home3/Banner";
+import Marquee from "../components/sections/Home3/Marquee";
+import About from "../components/sections/Home3/About";
+import Video from "../components/sections/Home3/Video";
+import Service from "../components/sections/Home3/Service";
+import Service2 from "../components/sections/Home3/Service2";
+import Projects from "../components/sections/Home3/Projects";
+import Testimonials from "../components/sections/Home3/Testimonials";
+import Teams from "../components/sections/Home3/Teams";
+import Pricing from "../components/sections/Home3/Pricing";
+import Clients from "../components/sections/Home3/Clients";
+import Contact from "../components/sections/Home3/Contact";
+import Blog from "../components/sections/Home3/Blog";
 
-function Home1() {
+function Home3() {
 
     return (
         <>
-        <Layout>
-            <Banner />
-            <About />
-            <Service />
-            <Work />
-            <Project />
-            <Video />
-            <Team />
-            <Testimonial />
-            <Process />
-            <Blog />
-            <Cta />
-            <Clients />
-        </Layout>
+            <Layout HeaderStyle="three" FooterStyle="three">
+                <Banner />
+                <Marquee />
+                <About />
+                <Video />
+                <Service />
+                {/* <Projects /> */}
+                <Service2 />
+                <Testimonials />
+                {/* <Teams /> */}
+                {/* <Pricing /> */}
+                <Clients />
+                <Contact />
+                {/* <Blog /> */}
+            </Layout>
         </>
     );
 }
-export default Home1
+export default Home3
