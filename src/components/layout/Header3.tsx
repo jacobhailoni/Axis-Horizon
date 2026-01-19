@@ -85,7 +85,7 @@ const Header3: React.FC<HeaderProps> = ({ handleOpen, handleRemove, searchToggle
                 <i className="icon fal fa-envelope"></i>
                 <span className="title">Send Email</span>
                 <div className="text">
-                  <Link href="mailto:alma.lawson@example.com">alma.lawson@example.com</Link>
+                  <Link href="mailto:info@axishorizonglobal.com">info@axishorizonglobal.com</Link>
                 </div>
               </li>
             </ul>
