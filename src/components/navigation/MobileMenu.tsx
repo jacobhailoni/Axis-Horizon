@@ -148,7 +148,7 @@ const MobileMenu: React.FC = () => {
           <i className="fa fa-angle-down" />
         </div> */}
       </li>
-      <li className="dropdown">
+      {/* <li className="dropdown">
         <Link href="#">Projects</Link>
         <ul
           className={
@@ -169,8 +169,8 @@ const MobileMenu: React.FC = () => {
         >
           <i className="fa fa-angle-down" />
         </div>
-      </li>
-      <li className="dropdown">
+      </li> */}
+      {/* <li className="dropdown">
         <Link href="#">Blog</Link>
         <ul className={isActive.key === "blog" ? "sub-menu d-block" : "d-none"}>
           <li>
@@ -187,7 +187,7 @@ const MobileMenu: React.FC = () => {
         >
           <i className="fa fa-angle-down" />
         </div>
-      </li>
+      </li> */}
       <li>
         <Link href="/contact">Contact</Link>
       </li>
