@@ -1,0 +1,138 @@
+/* [project]/src/styles/css/flaticon-digitaal.css [client] (css) */
+@font-face {
+  font-family: flaticon;
+  src: url("/assets/fonts/flaticon_digitaal.woff2") format("woff2"), url("/assets/fonts/flaticon_digitaal.woff") format("woff"), url("/assets/fonts/flaticon_digitaal.eot") format("embedded-opentype"), url("/assets/fonts/flaticon_digitaal.ttf") format("truetype"), url("/assets/fonts/flaticon_digitaal.svg") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+  font-variant: normal;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  line-height: 1;
+  font-family: flaticon !important;
+  font-weight: normal !important;
+}
+
+.flaticon-scribble:before {
+  content: "";
+}
+
+.flaticon-search:before {
+  content: "";
+}
+
+.flaticon-menu:before {
+  content: "";
+}
+
+.flaticon-star:before {
+  content: "";
+}
+
+.flaticon-quote:before {
+  content: "";
+}
+
+.flaticon-next:before {
+  content: "";
+}
+
+.flaticon-technical-support:before {
+  content: "";
+}
+
+.flaticon-notes:before {
+  content: "";
+}
+
+.flaticon-database:before {
+  content: "";
+}
+
+.flaticon-top-right:before {
+  content: "";
+}
+
+.flaticon-paper-plane:before {
+  content: "";
+}
+
+.flaticon-facebook-app-symbol:before {
+  content: "";
+}
+
+.flaticon-twitter:before {
+  content: "";
+}
+
+.flaticon-instagram:before {
+  content: "";
+}
+
+.flaticon-linkedin:before {
+  content: "";
+}
+
+.flaticon-share:before {
+  content: "";
+}
+
+.flaticon-digitalization:before {
+  content: "";
+}
+
+.flaticon-digital-marketing:before {
+  content: "";
+}
+
+.flaticon-call:before {
+  content: "";
+}
+
+.flaticon-target:before {
+  content: "";
+}
+
+.flaticon-3d-speaker:before {
+  content: "";
+}
+
+.flaticon-3d-notes:before {
+  content: "";
+}
+
+.flaticon-right-down:before {
+  content: "";
+}
+
+.flaticon-film:before {
+  content: "";
+}
+
+.flaticon-seo:before {
+  content: "";
+}
+
+.flaticon-mobile-development:before {
+  content: "";
+}
+
+.flaticon-target-1:before {
+  content: "";
+}
+
+.flaticon-mission:before {
+  content: "";
+}
+
+.flaticon-hand-pointer:before {
+  content: "";
+}
+
+.flaticon-paint-roller:before {
+  content: "";
+}
+
+/*# sourceMappingURL=src_styles_css_flaticon-digitaal_css_65f1660e._.single.css.map*/
