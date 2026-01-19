@@ -8,7 +8,7 @@ import Service from "../components/sections/Home3/Service";
 function AboutPage() {
     return (
         <>
-            <Layout HeaderStyle="two">
+            <Layout HeaderStyle="three" FooterStyle="three">
                 <PageTitle pageName="About Us" />
                 <About />
                 <Video />

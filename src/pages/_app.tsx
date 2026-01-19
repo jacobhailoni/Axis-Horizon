@@ -24,7 +24,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           <div className="preloader-loaded light">
             <div className="text-preloader-outer">
               <div className="text-preloading">
-                {["D", "I", "G", "I", "T", "A", "A", "L"].map((letter, i) => (
+                {["A", "X", "I", "S", "H", "O", "R", "I", "Z", "O", "N"].map((letter, i) => (
                   <span key={i} className="text-split" data-text={letter}>
                     {letter}
                   </span>
