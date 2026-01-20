@@ -30,8 +30,8 @@ const MobileMenu: React.FC = () => {
 
   return (
     <ul className="navigation">
-      <li className="dropdown">
-        <Link href="/">Home</Link>
+      <li>
+        <Link href="/">Heim</Link>
         {/* <ul className={isActive.key === "home" ? "sub-menu d-block" : "d-none"}>
           <li><Link href="/">Home Page 1</Link></li>
           <li><Link href="/index-2">Home Page 2</Link></li>
@@ -41,16 +41,16 @@ const MobileMenu: React.FC = () => {
           <li><Link href="/index-6">Home Page 6</Link></li>
           <li><Link href="/index-7">Home Page 7</Link></li>
         </ul> */}
-        <div
+        {/* <div
           className={`dropdown-btn ${isActive.key === "home" ? "active" : ""}`}
           onClick={() => handleClick("home")}
           aria-expanded={isActive.key === "home"}
         >
           <i className="fa fa-angle-down" />
-        </div>
+        </div> */}
       </li>
           <li>
-            <Link href="/page-about">About Us</Link>
+            <Link href="/page-about">Über uns</Link>
           </li>
       {/* <li className="dropdown">
         <Link href="#">Pages</Link>
@@ -127,7 +127,7 @@ const MobileMenu: React.FC = () => {
         </div>
       </li> */}
       <li>
-        <Link href="/page-services">Services</Link>
+        <Link href="/page-services">Dienstleistungen</Link>
         {/* <ul
           className={
             isActive.key === "services" ? "sub-menu d-block" : "d-none"
@@ -189,7 +189,7 @@ const MobileMenu: React.FC = () => {
         </div>
       </li> */}
       <li>
-        <Link href="/contact">Contact</Link>
+        <Link href="/contact">Kontakt</Link>
       </li>
     </ul>
   );

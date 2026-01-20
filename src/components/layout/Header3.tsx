@@ -98,26 +98,51 @@ const Header3: React.FC<HeaderProps> = ({
                   </Link>
                 </div>
               </li>
+              <li>
+                <i className="icon fal fa-phone"></i>
+                <span className="title">Telefon kontaktieren</span>
+                <div className="text">
+                  <Link href="tel:+4915212384897">
+                    +49 1521 2384897
+                  </Link>
+                </div>
+              </li>
             </ul>
 
             <ul className="social-links">
               <li>
-                <Link href="https://www.instagram.com/axishorizonglobal/" target="_blank" rel="noopener noreferrer">
+                <Link
+                  href="https://www.instagram.com/axishorizonglobal/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <i className="icon fab fa-instagram"></i>
                 </Link>
               </li>
               <li>
-                <Link href="https://www.facebook.com/646493791872312?ref=_xav_ig_profile_page_web" target="_blank" rel="noopener noreferrer">
+                <Link
+                  href="https://www.facebook.com/646493791872312?ref=_xav_ig_profile_page_web"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <i className="icon fab fa-facebook-f"></i>
                 </Link>
               </li>
               <li>
-                <Link href="https://www.linkedin.com/company/axis-horizon/" target="_blank" rel="noopener noreferrer">
+                <Link
+                  href="https://www.linkedin.com/company/axis-horizon/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <i className="icon fab fa-linkedin"></i>
                 </Link>
               </li>
               <li>
-                <Link href="https://www.tiktok.com/@axishorizongmbh" target="_blank" rel="noopener noreferrer"> 
+                <Link
+                  href="https://www.tiktok.com/@axishorizongmbh"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <i className="icon fab fa-tiktok"></i>
                 </Link>
               </li>

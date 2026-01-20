@@ -61,11 +61,21 @@ function Footer3() {
                           <i className="fab fa-instagram" />
                         </Link>
                       </li>
+                                            <li>
+                        <Link
+                          href="https://www.tiktok.com/@axishorizongmbh"
+                          target="_blank"
+                          aria-label="tiktok"
+                        >
+                          <i className="fab fa-tiktok" />
+                        </Link>
+                      </li>
                     </ul>
                   </div>
                   <div className="text mt-5">
                     <b className="text-white">HRB 275044 B</b> <br />
                     <b className="text-white">USt-IdNr. DE455957479</b> <br />
+                    <b className="text-white">37/213/53929</b>
                   </div>
                 </div>
               </div>

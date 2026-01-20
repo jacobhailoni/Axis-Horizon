@@ -462,72 +462,6 @@ function triggerUpdate(msg) {
     }
 }
 }),
-"[project]/src/components/elements/BackToTop.tsx [client] (ecmascript)", ((__turbopack_context__) => {
-"use strict";
-
-__turbopack_context__.s([
-    "default",
-    ()=>__TURBOPACK__default__export__
-]);
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/react/jsx-dev-runtime.js [client] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$index$2e$js__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/react/index.js [client] (ecmascript)");
-;
-var _s = __turbopack_context__.k.signature();
-;
-const BackToTop = ()=>{
-    _s();
-    const [hasScrolled, setHasScrolled] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$index$2e$js__$5b$client$5d$__$28$ecmascript$29$__["useState"])(false);
-    const onScroll = ()=>{
-        if (window.scrollY > 100 && !hasScrolled) {
-            setHasScrolled(true);
-        } else if (window.scrollY <= 100 && hasScrolled) {
-            setHasScrolled(false);
-        }
-    };
-    (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$index$2e$js__$5b$client$5d$__$28$ecmascript$29$__["useEffect"])({
-        "BackToTop.useEffect": ()=>{
-            window.addEventListener("scroll", onScroll);
-            return ({
-                "BackToTop.useEffect": ()=>{
-                    window.removeEventListener("scroll", onScroll);
-                }
-            })["BackToTop.useEffect"];
-        }
-    }["BackToTop.useEffect"], [
-        hasScrolled
-    ]);
-    const scrollToTop = ()=>{
-        window.scrollTo({
-            top: 0,
-            behavior: "smooth"
-        });
-    };
-    return hasScrolled && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-        className: "scroll-up show",
-        onClick: scrollToTop,
-        "aria-label": "Back to top",
-        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-            className: "fa fa-arrow-up"
-        }, void 0, false, {
-            fileName: "[project]/src/components/elements/BackToTop.tsx",
-            lineNumber: 28,
-            columnNumber: 9
-        }, ("TURBOPACK compile-time value", void 0))
-    }, void 0, false, {
-        fileName: "[project]/src/components/elements/BackToTop.tsx",
-        lineNumber: 27,
-        columnNumber: 7
-    }, ("TURBOPACK compile-time value", void 0));
-};
-_s(BackToTop, "6NwvVT3+fDIipYxYzAg125V9bBs=");
-_c = BackToTop;
-const __TURBOPACK__default__export__ = BackToTop;
-var _c;
-__turbopack_context__.k.register(_c, "BackToTop");
-if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
-    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
-}
-}),
 "[project]/src/components/layout/Footer.tsx [client] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
@@ -7571,7 +7505,6 @@ __turbopack_context__.s([
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/react/jsx-dev-runtime.js [client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$index$2e$js__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/react/index.js [client] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$elements$2f$BackToTop$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/elements/BackToTop.tsx [client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$layout$2f$Footer$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/layout/Footer.tsx [client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$layout$2f$Footer2$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/layout/Footer2.tsx [client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$layout$2f$Footer3$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/layout/Footer3.tsx [client] (ecmascript)");
@@ -7586,7 +7519,6 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$layout$
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$layout$2f$PageHead$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/layout/PageHead.tsx [client] (ecmascript)");
 ;
 var _s = __turbopack_context__.k.signature();
-;
 ;
 ;
 ;
@@ -7744,11 +7676,6 @@ const Layout = ({ children, HeaderStyle, FooterStyle, styleMode })=>{
             }, void 0, true, {
                 fileName: "[project]/src/layouts/MainLayout.tsx",
                 lineNumber: 56,
-                columnNumber: 5
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$elements$2f$BackToTop$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
-                fileName: "[project]/src/layouts/MainLayout.tsx",
-                lineNumber: 70,
                 columnNumber: 5
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -11102,4 +11029,4 @@ __turbopack_context__.r("[next]/entry/page-loader.ts { PAGE => \"[project]/src/p
 }),
 ]);
 
-//# sourceMappingURL=%5Broot-of-the-server%5D__98f585df._.js.map
+//# sourceMappingURL=%5Broot-of-the-server%5D__64c8420d._.js.map

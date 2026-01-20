@@ -67,7 +67,7 @@ const Layout: React.FC<LayoutProps> = ({ children, HeaderStyle, FooterStyle, sty
         {FooterStyle === "four" && <Footer4 />}
         {FooterStyle === "five" && <Footer5 />}
     </div>
-    <BackToTop />
+    {/* <BackToTop /> */}
 
     </>
   );
