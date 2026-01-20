@@ -38,8 +38,8 @@ function Contact() {
                     </h2>
                   </div>
                   <div className="contact-info">
-                    <h6 className="email">marketing@axisgorizon.com</h6>
-                    <h3 className="phone">(+49) 000 000 000</h3>
+                    <h6 className="email">info@axisgorizon.com</h6>
+                    <h3 className="phone">+49 1521 2384897</h3>
                   </div>
                 </div>
               </div>

@@ -155,7 +155,7 @@ const services = [
 ];
 
 function ServiceSection() {
-  const [activeIndex, setActiveIndex] = useState(1);
+  const [activeIndex, setActiveIndex] = useState(0);
 
   useEffect(() => {
     import("aos").then((AOS) => {

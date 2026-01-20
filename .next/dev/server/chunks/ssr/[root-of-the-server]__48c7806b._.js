@@ -3332,14 +3332,13 @@ const NavLinks = ()=>{
         className: "navigation",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                className: "current dropdown",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
                     href: "/",
                     children: "Home"
                 }, void 0, false, {
                     fileName: "[project]/src/components/navigation/NavLinks.tsx",
                     lineNumber: 8,
-                    columnNumber: 42
+                    columnNumber: 13
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/src/components/navigation/NavLinks.tsx",
@@ -3347,405 +3346,31 @@ const NavLinks = ()=>{
                 columnNumber: 9
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                className: "dropdown",
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                        href: "#",
-                        children: "Pages"
-                    }, void 0, false, {
-                        fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                        lineNumber: 19,
-                        columnNumber: 34
-                    }, ("TURBOPACK compile-time value", void 0)),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("ul", {
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                    href: "/page-about",
-                                    children: "About"
-                                }, void 0, false, {
-                                    fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                    lineNumber: 21,
-                                    columnNumber: 17
-                                }, ("TURBOPACK compile-time value", void 0))
-                            }, void 0, false, {
-                                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                lineNumber: 21,
-                                columnNumber: 13
-                            }, ("TURBOPACK compile-time value", void 0)),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                    href: "/page-pricing",
-                                    children: "Pricing"
-                                }, void 0, false, {
-                                    fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                    lineNumber: 22,
-                                    columnNumber: 17
-                                }, ("TURBOPACK compile-time value", void 0))
-                            }, void 0, false, {
-                                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                lineNumber: 22,
-                                columnNumber: 13
-                            }, ("TURBOPACK compile-time value", void 0)),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                    href: "/page-testimonial",
-                                    children: "Testimonial"
-                                }, void 0, false, {
-                                    fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                    lineNumber: 23,
-                                    columnNumber: 17
-                                }, ("TURBOPACK compile-time value", void 0))
-                            }, void 0, false, {
-                                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                lineNumber: 23,
-                                columnNumber: 13
-                            }, ("TURBOPACK compile-time value", void 0)),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                    href: "/page-faq",
-                                    children: "FAQ"
-                                }, void 0, false, {
-                                    fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                    lineNumber: 24,
-                                    columnNumber: 17
-                                }, ("TURBOPACK compile-time value", void 0))
-                            }, void 0, false, {
-                                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                lineNumber: 24,
-                                columnNumber: 13
-                            }, ("TURBOPACK compile-time value", void 0)),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                className: "dropdown",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                        href: "#",
-                                        children: "Team"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                        lineNumber: 25,
-                                        columnNumber: 38
-                                    }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("ul", {
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                    href: "/page-team",
-                                                    children: "Team List"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                                    lineNumber: 27,
-                                                    columnNumber: 21
-                                                }, ("TURBOPACK compile-time value", void 0))
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                                lineNumber: 27,
-                                                columnNumber: 17
-                                            }, ("TURBOPACK compile-time value", void 0)),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                    href: "/page-team-details",
-                                                    children: "Team Details"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                                    lineNumber: 28,
-                                                    columnNumber: 21
-                                                }, ("TURBOPACK compile-time value", void 0))
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                                lineNumber: 28,
-                                                columnNumber: 17
-                                            }, ("TURBOPACK compile-time value", void 0))
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                        lineNumber: 26,
-                                        columnNumber: 17
-                                    }, ("TURBOPACK compile-time value", void 0))
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                lineNumber: 25,
-                                columnNumber: 13
-                            }, ("TURBOPACK compile-time value", void 0)),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                className: "dropdown",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                        href: "#",
-                                        children: "Shop"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                        lineNumber: 31,
-                                        columnNumber: 38
-                                    }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("ul", {
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                    href: "/shop-products",
-                                                    children: "Products"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                                    lineNumber: 33,
-                                                    columnNumber: 21
-                                                }, ("TURBOPACK compile-time value", void 0))
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                                lineNumber: 33,
-                                                columnNumber: 17
-                                            }, ("TURBOPACK compile-time value", void 0)),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                    href: "/shop-products-sidebar",
-                                                    children: "Products with Sidebar"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                                    lineNumber: 34,
-                                                    columnNumber: 21
-                                                }, ("TURBOPACK compile-time value", void 0))
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                                lineNumber: 34,
-                                                columnNumber: 17
-                                            }, ("TURBOPACK compile-time value", void 0)),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                    href: "/shop-product-details",
-                                                    children: "Product Details"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                                    lineNumber: 35,
-                                                    columnNumber: 21
-                                                }, ("TURBOPACK compile-time value", void 0))
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                                lineNumber: 35,
-                                                columnNumber: 17
-                                            }, ("TURBOPACK compile-time value", void 0)),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                    href: "/shop-cart",
-                                                    children: "Cart"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                                    lineNumber: 36,
-                                                    columnNumber: 21
-                                                }, ("TURBOPACK compile-time value", void 0))
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                                lineNumber: 36,
-                                                columnNumber: 17
-                                            }, ("TURBOPACK compile-time value", void 0)),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                    href: "/shop-checkout",
-                                                    children: "Checkout"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                                    lineNumber: 37,
-                                                    columnNumber: 21
-                                                }, ("TURBOPACK compile-time value", void 0))
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                                lineNumber: 37,
-                                                columnNumber: 17
-                                            }, ("TURBOPACK compile-time value", void 0))
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                        lineNumber: 32,
-                                        columnNumber: 17
-                                    }, ("TURBOPACK compile-time value", void 0))
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                lineNumber: 31,
-                                columnNumber: 13
-                            }, ("TURBOPACK compile-time value", void 0)),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                className: "dropdown",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                        href: "#",
-                                        children: "Blog"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                        lineNumber: 40,
-                                        columnNumber: 38
-                                    }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("ul", {
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                    href: "/news-grid",
-                                                    children: "News Grid"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                                    lineNumber: 42,
-                                                    columnNumber: 21
-                                                }, ("TURBOPACK compile-time value", void 0))
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                                lineNumber: 42,
-                                                columnNumber: 17
-                                            }, ("TURBOPACK compile-time value", void 0)),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                    href: "/news-details",
-                                                    children: "News Details"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                                    lineNumber: 43,
-                                                    columnNumber: 21
-                                                }, ("TURBOPACK compile-time value", void 0))
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                                lineNumber: 43,
-                                                columnNumber: 17
-                                            }, ("TURBOPACK compile-time value", void 0))
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                        lineNumber: 41,
-                                        columnNumber: 17
-                                    }, ("TURBOPACK compile-time value", void 0))
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                lineNumber: 40,
-                                columnNumber: 13
-                            }, ("TURBOPACK compile-time value", void 0)),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                    href: "/page-404",
-                                    children: "Page 404"
-                                }, void 0, false, {
-                                    fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                    lineNumber: 46,
-                                    columnNumber: 17
-                                }, ("TURBOPACK compile-time value", void 0))
-                            }, void 0, false, {
-                                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                lineNumber: 46,
-                                columnNumber: 13
-                            }, ("TURBOPACK compile-time value", void 0))
-                        ]
-                    }, void 0, true, {
-                        fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                        lineNumber: 20,
-                        columnNumber: 13
-                    }, ("TURBOPACK compile-time value", void 0))
-                ]
-            }, void 0, true, {
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
+                    href: "/page-about",
+                    children: "About"
+                }, void 0, false, {
+                    fileName: "[project]/src/components/navigation/NavLinks.tsx",
+                    lineNumber: 19,
+                    columnNumber: 13
+                }, ("TURBOPACK compile-time value", void 0))
+            }, void 0, false, {
                 fileName: "[project]/src/components/navigation/NavLinks.tsx",
                 lineNumber: 19,
                 columnNumber: 9
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                className: "dropdown",
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                        href: "#",
-                        children: "Services"
-                    }, void 0, false, {
-                        fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                        lineNumber: 49,
-                        columnNumber: 34
-                    }, ("TURBOPACK compile-time value", void 0)),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("ul", {
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                    href: "/page-services",
-                                    children: "Services List"
-                                }, void 0, false, {
-                                    fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                    lineNumber: 51,
-                                    columnNumber: 17
-                                }, ("TURBOPACK compile-time value", void 0))
-                            }, void 0, false, {
-                                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                lineNumber: 51,
-                                columnNumber: 13
-                            }, ("TURBOPACK compile-time value", void 0)),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                    href: "/page-service-details",
-                                    children: "Service Details"
-                                }, void 0, false, {
-                                    fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                    lineNumber: 52,
-                                    columnNumber: 17
-                                }, ("TURBOPACK compile-time value", void 0))
-                            }, void 0, false, {
-                                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                lineNumber: 52,
-                                columnNumber: 13
-                            }, ("TURBOPACK compile-time value", void 0))
-                        ]
-                    }, void 0, true, {
-                        fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                        lineNumber: 50,
-                        columnNumber: 13
-                    }, ("TURBOPACK compile-time value", void 0))
-                ]
-            }, void 0, true, {
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
+                    href: "/page-services",
+                    children: "Services"
+                }, void 0, false, {
+                    fileName: "[project]/src/components/navigation/NavLinks.tsx",
+                    lineNumber: 50,
+                    columnNumber: 13
+                }, ("TURBOPACK compile-time value", void 0))
+            }, void 0, false, {
                 fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                lineNumber: 49,
-                columnNumber: 9
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                className: "dropdown",
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                        href: "#",
-                        children: "Projects"
-                    }, void 0, false, {
-                        fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                        lineNumber: 55,
-                        columnNumber: 34
-                    }, ("TURBOPACK compile-time value", void 0)),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("ul", {
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                    href: "/page-project",
-                                    children: "Projects"
-                                }, void 0, false, {
-                                    fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                    lineNumber: 57,
-                                    columnNumber: 17
-                                }, ("TURBOPACK compile-time value", void 0))
-                            }, void 0, false, {
-                                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                lineNumber: 57,
-                                columnNumber: 13
-                            }, ("TURBOPACK compile-time value", void 0)),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                    href: "page-project-details",
-                                    children: "Project Details"
-                                }, void 0, false, {
-                                    fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                    lineNumber: 58,
-                                    columnNumber: 17
-                                }, ("TURBOPACK compile-time value", void 0))
-                            }, void 0, false, {
-                                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                                lineNumber: 58,
-                                columnNumber: 13
-                            }, ("TURBOPACK compile-time value", void 0))
-                        ]
-                    }, void 0, true, {
-                        fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                        lineNumber: 56,
-                        columnNumber: 13
-                    }, ("TURBOPACK compile-time value", void 0))
-                ]
-            }, void 0, true, {
-                fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                lineNumber: 55,
+                lineNumber: 50,
                 columnNumber: 9
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
@@ -3754,12 +3379,12 @@ const NavLinks = ()=>{
                     children: "Contact"
                 }, void 0, false, {
                     fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                    lineNumber: 61,
+                    lineNumber: 62,
                     columnNumber: 13
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/src/components/navigation/NavLinks.tsx",
-                lineNumber: 61,
+                lineNumber: 62,
                 columnNumber: 9
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -5048,22 +4673,22 @@ const Header3 = ({ handleOpen, handleRemove, searchToggle, handleToggle, scroll 
                                                     alt: "Logo"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/layout/Header3.tsx",
-                                                    lineNumber: 27,
+                                                    lineNumber: 33,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                                lineNumber: 26,
+                                                lineNumber: 32,
                                                 columnNumber: 21
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/layout/Header3.tsx",
-                                            lineNumber: 25,
+                                            lineNumber: 31,
                                             columnNumber: 19
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/layout/Header3.tsx",
-                                        lineNumber: 24,
+                                        lineNumber: 30,
                                         columnNumber: 17
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -5073,12 +4698,12 @@ const Header3 = ({ handleOpen, handleRemove, searchToggle, handleToggle, scroll 
                                                 className: "nav main-menu",
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$navigation$2f$NavLinks$2e$tsx__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                                                     fileName: "[project]/src/components/layout/Header3.tsx",
-                                                    lineNumber: 34,
+                                                    lineNumber: 40,
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                                lineNumber: 33,
+                                                lineNumber: 39,
                                                 columnNumber: 19
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -5091,30 +4716,30 @@ const Header3 = ({ handleOpen, handleRemove, searchToggle, handleToggle, scroll 
                                                                 className: "icon fa-solid fa-phone"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                                                lineNumber: 40,
+                                                                lineNumber: 45,
                                                                 columnNumber: 23
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                 className: "inner",
                                                                 children: [
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
-                                                                        children: "Have Any Questions"
+                                                                        children: "Haben Sie Fragen"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/layout/Header3.tsx",
-                                                                        lineNumber: 42,
+                                                                        lineNumber: 47,
                                                                         columnNumber: 25
                                                                     }, ("TURBOPACK compile-time value", void 0)),
-                                                                    " 0123 4567 890"
+                                                                    " +49 1521 2384897"
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                                                lineNumber: 41,
+                                                                lineNumber: 46,
                                                                 columnNumber: 23
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/layout/Header3.tsx",
-                                                        lineNumber: 39,
+                                                        lineNumber: 44,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -5123,10 +4748,10 @@ const Header3 = ({ handleOpen, handleRemove, searchToggle, handleToggle, scroll 
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                 className: "btn-title",
-                                                                children: "Let’s Talk"
+                                                                children: "Lass uns reden"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                                                lineNumber: 47,
+                                                                lineNumber: 55,
                                                                 columnNumber: 23
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
@@ -5135,18 +4760,18 @@ const Header3 = ({ handleOpen, handleRemove, searchToggle, handleToggle, scroll 
                                                                     className: "dot-item"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/layout/Header3.tsx",
-                                                                    lineNumber: 48,
-                                                                    columnNumber: 49
+                                                                    lineNumber: 57,
+                                                                    columnNumber: 25
                                                                 }, ("TURBOPACK compile-time value", void 0))
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                                                lineNumber: 48,
+                                                                lineNumber: 56,
                                                                 columnNumber: 23
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/layout/Header3.tsx",
-                                                        lineNumber: 46,
+                                                        lineNumber: 51,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -5156,45 +4781,45 @@ const Header3 = ({ handleOpen, handleRemove, searchToggle, handleToggle, scroll 
                                                             className: "shape-line"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/layout/Header3.tsx",
-                                                            lineNumber: 52,
+                                                            lineNumber: 62,
                                                             columnNumber: 23
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/layout/Header3.tsx",
-                                                        lineNumber: 51,
+                                                        lineNumber: 61,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                                lineNumber: 37,
+                                                lineNumber: 43,
                                                 columnNumber: 19
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/layout/Header3.tsx",
-                                        lineNumber: 32,
+                                        lineNumber: 38,
                                         columnNumber: 17
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                lineNumber: 22,
+                                lineNumber: 29,
                                 columnNumber: 15
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/src/components/layout/Header3.tsx",
-                            lineNumber: 21,
+                            lineNumber: 28,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0))
                     }, void 0, false, {
                         fileName: "[project]/src/components/layout/Header3.tsx",
-                        lineNumber: 20,
+                        lineNumber: 27,
                         columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0))
                 }, void 0, false, {
                     fileName: "[project]/src/components/layout/Header3.tsx",
-                    lineNumber: 19,
+                    lineNumber: 26,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0)),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -5205,7 +4830,7 @@ const Header3 = ({ handleOpen, handleRemove, searchToggle, handleToggle, scroll 
                             onClick: handleRemove
                         }, void 0, false, {
                             fileName: "[project]/src/components/layout/Header3.tsx",
-                            lineNumber: 65,
+                            lineNumber: 73,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("nav", {
@@ -5223,17 +4848,17 @@ const Header3 = ({ handleOpen, handleRemove, searchToggle, handleToggle, scroll 
                                                     alt: "Logo"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/layout/Header3.tsx",
-                                                    lineNumber: 71,
+                                                    lineNumber: 79,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                                lineNumber: 70,
+                                                lineNumber: 78,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/layout/Header3.tsx",
-                                            lineNumber: 69,
+                                            lineNumber: 77,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -5243,30 +4868,30 @@ const Header3 = ({ handleOpen, handleRemove, searchToggle, handleToggle, scroll 
                                                 className: "icon fa fa-times"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                                lineNumber: 75,
+                                                lineNumber: 83,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/layout/Header3.tsx",
-                                            lineNumber: 74,
+                                            lineNumber: 82,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/layout/Header3.tsx",
-                                    lineNumber: 68,
+                                    lineNumber: 76,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("ul", {
                                     className: "navigation clearfix",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$navigation$2f$MobileMenu$2e$tsx__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                                         fileName: "[project]/src/components/layout/Header3.tsx",
-                                        lineNumber: 80,
+                                        lineNumber: 88,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/layout/Header3.tsx",
-                                    lineNumber: 79,
+                                    lineNumber: 87,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("ul", {
@@ -5277,41 +4902,41 @@ const Header3 = ({ handleOpen, handleRemove, searchToggle, handleToggle, scroll 
                                                 className: "icon fal fa-envelope"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                                lineNumber: 85,
+                                                lineNumber: 93,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                 className: "title",
-                                                children: "Send Email"
+                                                children: "E-Mail senden"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                                lineNumber: 86,
+                                                lineNumber: 94,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                 className: "text",
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                    href: "mailto:alma.lawson@example.com",
-                                                    children: "alma.lawson@example.com"
+                                                    href: "mailto:info@axishorizonglobal.com",
+                                                    children: "info@axishorizonglobal.com"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/layout/Header3.tsx",
-                                                    lineNumber: 88,
+                                                    lineNumber: 96,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                                lineNumber: 87,
+                                                lineNumber: 95,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/layout/Header3.tsx",
-                                        lineNumber: 84,
+                                        lineNumber: 92,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/layout/Header3.tsx",
-                                    lineNumber: 83,
+                                    lineNumber: 91,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("ul", {
@@ -5319,100 +4944,108 @@ const Header3 = ({ handleOpen, handleRemove, searchToggle, handleToggle, scroll 
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                href: "/",
+                                                href: "https://www.instagram.com/axishorizonglobal/",
+                                                target: "_blank",
+                                                rel: "noopener noreferrer",
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
-                                                    className: "icon fab fa-twitter"
+                                                    className: "icon fab fa-instagram"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/layout/Header3.tsx",
-                                                    lineNumber: 94,
-                                                    columnNumber: 34
+                                                    lineNumber: 106,
+                                                    columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                                lineNumber: 94,
-                                                columnNumber: 19
+                                                lineNumber: 105,
+                                                columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/layout/Header3.tsx",
-                                            lineNumber: 94,
+                                            lineNumber: 104,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                href: "/",
+                                                href: "https://www.facebook.com/646493791872312?ref=_xav_ig_profile_page_web",
+                                                target: "_blank",
+                                                rel: "noopener noreferrer",
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
                                                     className: "icon fab fa-facebook-f"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/layout/Header3.tsx",
-                                                    lineNumber: 95,
-                                                    columnNumber: 34
+                                                    lineNumber: 111,
+                                                    columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                                lineNumber: 95,
-                                                columnNumber: 19
+                                                lineNumber: 110,
+                                                columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/layout/Header3.tsx",
-                                            lineNumber: 95,
+                                            lineNumber: 109,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                href: "/",
+                                                href: "https://www.linkedin.com/company/axis-horizon/",
+                                                target: "_blank",
+                                                rel: "noopener noreferrer",
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
-                                                    className: "icon fab fa-pinterest-p"
+                                                    className: "icon fab fa-linkedin"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/layout/Header3.tsx",
-                                                    lineNumber: 96,
-                                                    columnNumber: 34
+                                                    lineNumber: 116,
+                                                    columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                                lineNumber: 96,
-                                                columnNumber: 19
+                                                lineNumber: 115,
+                                                columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/layout/Header3.tsx",
-                                            lineNumber: 96,
+                                            lineNumber: 114,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                href: "/",
+                                                href: "https://www.tiktok.com/@axishorizongmbh",
+                                                target: "_blank",
+                                                rel: "noopener noreferrer",
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
-                                                    className: "icon fab fa-vimeo-v"
+                                                    className: "icon fab fa-tiktok"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/layout/Header3.tsx",
-                                                    lineNumber: 97,
-                                                    columnNumber: 34
+                                                    lineNumber: 121,
+                                                    columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                                lineNumber: 97,
-                                                columnNumber: 19
+                                                lineNumber: 120,
+                                                columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/layout/Header3.tsx",
-                                            lineNumber: 97,
+                                            lineNumber: 119,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/layout/Header3.tsx",
-                                    lineNumber: 93,
+                                    lineNumber: 103,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/layout/Header3.tsx",
-                            lineNumber: 67,
+                            lineNumber: 75,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/components/layout/Header3.tsx",
-                    lineNumber: 64,
+                    lineNumber: 72,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0)),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -5423,7 +5056,7 @@ const Header3 = ({ handleOpen, handleRemove, searchToggle, handleToggle, scroll 
                             onClick: handleToggle
                         }, void 0, false, {
                             fileName: "[project]/src/components/layout/Header3.tsx",
-                            lineNumber: 104,
+                            lineNumber: 130,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("button", {
@@ -5433,12 +5066,12 @@ const Header3 = ({ handleOpen, handleRemove, searchToggle, handleToggle, scroll 
                                 className: "fa fa-times"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                lineNumber: 106,
+                                lineNumber: 132,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/src/components/layout/Header3.tsx",
-                            lineNumber: 105,
+                            lineNumber: 131,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -5456,7 +5089,7 @@ const Header3 = ({ handleOpen, handleRemove, searchToggle, handleToggle, scroll 
                                             required: true
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/layout/Header3.tsx",
-                                            lineNumber: 112,
+                                            lineNumber: 138,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("button", {
@@ -5465,34 +5098,34 @@ const Header3 = ({ handleOpen, handleRemove, searchToggle, handleToggle, scroll 
                                                 className: "fa fa-search"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                                lineNumber: 114,
+                                                lineNumber: 145,
                                                 columnNumber: 19
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/layout/Header3.tsx",
-                                            lineNumber: 113,
+                                            lineNumber: 144,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/layout/Header3.tsx",
-                                    lineNumber: 111,
+                                    lineNumber: 137,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                lineNumber: 110,
+                                lineNumber: 136,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/src/components/layout/Header3.tsx",
-                            lineNumber: 109,
+                            lineNumber: 135,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/components/layout/Header3.tsx",
-                    lineNumber: 103,
+                    lineNumber: 129,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0)),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -5511,17 +5144,17 @@ const Header3 = ({ handleOpen, handleRemove, searchToggle, handleToggle, scroll 
                                             alt: "Logo"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/layout/Header3.tsx",
-                                            lineNumber: 128,
+                                            lineNumber: 160,
                                             columnNumber: 19
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/layout/Header3.tsx",
-                                        lineNumber: 127,
+                                        lineNumber: 159,
                                         columnNumber: 17
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/layout/Header3.tsx",
-                                    lineNumber: 126,
+                                    lineNumber: 158,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -5535,22 +5168,22 @@ const Header3 = ({ handleOpen, handleRemove, searchToggle, handleToggle, scroll 
                                                     className: "navigation clearfix",
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$navigation$2f$NavLinks$2e$tsx__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                                                         fileName: "[project]/src/components/layout/Header3.tsx",
-                                                        lineNumber: 136,
+                                                        lineNumber: 168,
                                                         columnNumber: 23
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/layout/Header3.tsx",
-                                                    lineNumber: 135,
+                                                    lineNumber: 167,
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                                lineNumber: 134,
+                                                lineNumber: 166,
                                                 columnNumber: 19
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/layout/Header3.tsx",
-                                            lineNumber: 133,
+                                            lineNumber: 165,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -5560,40 +5193,40 @@ const Header3 = ({ handleOpen, handleRemove, searchToggle, handleToggle, scroll 
                                                 className: "icon far fa-bars"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/Header3.tsx",
-                                                lineNumber: 142,
+                                                lineNumber: 174,
                                                 columnNumber: 19
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/layout/Header3.tsx",
-                                            lineNumber: 141,
+                                            lineNumber: 173,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/layout/Header3.tsx",
-                                    lineNumber: 132,
+                                    lineNumber: 164,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/layout/Header3.tsx",
-                            lineNumber: 124,
+                            lineNumber: 157,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0))
                     }, void 0, false, {
                         fileName: "[project]/src/components/layout/Header3.tsx",
-                        lineNumber: 123,
+                        lineNumber: 156,
                         columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0))
                 }, void 0, false, {
                     fileName: "[project]/src/components/layout/Header3.tsx",
-                    lineNumber: 122,
+                    lineNumber: 153,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             ]
         }, void 0, true, {
             fileName: "[project]/src/components/layout/Header3.tsx",
-            lineNumber: 17,
+            lineNumber: 23,
             columnNumber: 7
         }, ("TURBOPACK compile-time value", void 0))
     }, void 0, false);
@@ -7274,7 +6907,7 @@ const PageHead = ({ headTitle })=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$head$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("title", {
-                children: headTitle ?? 'Digitaal | React Next Js Template'
+                children: headTitle ?? 'Axis Horizon Global'
             }, void 0, false, {
                 fileName: "[project]/src/components/layout/PageHead.tsx",
                 lineNumber: 11,
@@ -8284,7 +7917,7 @@ function About() {
                                                             xmlns: "http://www.w3.org/2000/svg",
                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("path", {
                                                                 d: "M18.2342 24.6685C18.3159 25.3412 18.1357 25.9551 17.713 26.4438C17.213 27.0219 16.3799 27.4087 15.4324 27.5153V28.2408C15.4324 28.5428 15.1876 28.7877 14.8855 28.7877C14.5835 28.7877 14.3387 28.5428 14.3387 28.2408V27.5074C12.9378 27.3191 11.8483 26.4359 11.5336 25.1737C11.4605 24.8806 11.6389 24.5838 11.9319 24.5107C12.2252 24.4381 12.5218 24.6161 12.5949 24.9091C12.8763 26.0378 13.9792 26.4418 14.8827 26.4509C14.8875 26.4508 14.8923 26.451 14.8971 26.451C14.9274 26.4509 14.9575 26.4509 14.9873 26.4502C15.7776 26.4314 16.5228 26.148 16.8857 25.7283C17.1072 25.4722 17.1932 25.1686 17.1484 24.8003C17.0429 23.931 16.3201 23.4324 14.8049 23.1837C12.4139 22.7912 11.8572 21.5803 11.8114 20.6337C11.7476 19.3218 12.6665 18.2222 14.0979 17.8976C14.1767 17.8797 14.2572 17.8644 14.3387 17.8518V17.1106C14.3387 16.8086 14.5835 16.5637 14.8855 16.5637C15.1876 16.5637 15.4324 16.8086 15.4324 17.1106V17.8471C16.4588 17.9957 17.4732 18.5879 17.9789 19.7925C18.0958 20.0709 17.9649 20.3915 17.6864 20.5084C17.4079 20.6254 17.0873 20.4944 16.9704 20.2159C16.5776 19.2804 15.737 18.9005 14.9259 18.8992C14.9035 18.9009 14.8804 18.901 14.8578 18.9C14.6814 18.9042 14.5072 18.9263 14.3398 18.9643C13.6156 19.1285 12.8581 19.6394 12.9038 20.5807C12.9181 20.8755 12.9616 21.7727 14.9821 22.1045C15.7242 22.2263 17.9827 22.597 18.2342 24.6685ZM31.4315 28.1029L26.315 34.129C26.1376 34.338 25.8889 34.4531 25.6148 34.4531C25.3408 34.4531 25.0921 34.3379 24.9147 34.1291L22.8675 31.718C20.7583 33.4895 18.0396 34.4531 15.1301 34.4531C15.0589 34.4531 14.9879 34.4525 14.9165 34.4514C14.8469 34.4526 14.7767 34.4531 14.7073 34.4531C10.4906 34.4533 6.66102 32.3924 4.67409 29.0397C2.87111 25.9973 2.91055 22.3675 4.78223 19.0812C5.95378 17.0242 7.74801 14.695 10.3949 11.7994C9.64313 11.4574 9.11882 10.6997 9.11882 9.8214C9.11882 8.6411 10.0653 7.67833 11.2391 7.65058L9.51024 5.92177C8.64577 5.05729 8.64577 3.65073 9.51024 2.78633C10.2419 2.05461 11.4054 1.92965 12.2768 2.48896C12.3704 2.54898 12.462 2.55719 12.5648 2.51467C12.6674 2.47215 12.7264 2.40167 12.7501 2.29291C12.9709 1.28133 13.882 0.547012 14.9164 0.546875C15.9509 0.546875 16.8621 1.28112 17.083 2.29277C17.1067 2.4016 17.1657 2.47215 17.2685 2.51474C17.3711 2.55726 17.4626 2.54898 17.5563 2.48896C18.4277 1.92972 19.5911 2.05461 20.3228 2.78626C21.1873 3.6508 21.1873 5.05743 20.3228 5.92184L18.594 7.65064C19.7678 7.67847 20.7143 8.64124 20.7143 9.82153C20.7143 10.6998 20.19 11.4575 19.4381 11.7994C20.5533 13.0195 21.5139 14.1362 22.3407 15.1735C22.4021 14.5187 22.9543 14.0044 23.6247 14.0044H27.605C28.3165 14.0045 28.8953 14.5833 28.8952 15.2947V26.5902H30.7313C31.0935 26.5902 31.4129 26.7944 31.5649 27.1231C31.7169 27.4513 31.6658 27.8269 31.4315 28.1029ZM10.2836 5.14835L12.7846 7.64921H17.0486L19.5495 5.14835C19.9875 4.7103 19.9875 3.99766 19.5495 3.55968C19.1788 3.18897 18.589 3.12573 18.1471 3.40936C17.754 3.6616 17.2811 3.70385 16.8499 3.52509C16.4185 3.3464 16.114 2.98225 16.0144 2.52602C15.9024 2.01305 15.4406 1.64062 14.9165 1.64062C14.3924 1.64069 13.9307 2.01312 13.8187 2.52608C13.7191 2.98231 13.4147 3.34646 12.9832 3.52516C12.5518 3.70371 12.079 3.66153 11.6861 3.40942C11.2441 3.12573 10.6543 3.18897 10.2835 3.55968C9.84554 3.99766 9.84554 4.71037 10.2836 5.14835ZM10.2126 9.8214C10.2126 10.4161 10.6963 10.8998 11.291 10.8998H18.542C19.1367 10.8998 19.6205 10.4161 19.6205 9.82146C19.6205 9.22681 19.1367 8.74303 18.542 8.74303H11.291C10.6963 8.74296 10.2126 9.22674 10.2126 9.8214ZM22.1597 30.8844L19.7983 28.103C19.5639 27.8268 19.5129 27.4512 19.6649 27.1227C19.8169 26.7942 20.1362 26.59 20.4984 26.59H22.3345V16.9568C21.2486 15.4958 19.8699 13.8685 18.1296 11.9937H11.7031C8.83512 15.0834 6.9348 17.5117 5.73257 19.6225C4.03616 22.6011 3.99439 25.7476 5.61492 28.4821C7.43622 31.5554 10.9977 33.4232 14.9072 33.3577C14.9134 33.3576 14.9195 33.3576 14.9257 33.3577C17.6523 33.4044 20.1995 32.5287 22.1597 30.8844ZM25.4816 33.4207C25.4815 33.4209 25.4813 33.421 25.4812 33.4212L25.4816 33.4207ZM30.3526 27.6838H28.3483C28.0463 27.6838 27.8014 27.439 27.8014 27.137V15.2945C27.8014 15.1879 27.7115 15.0981 27.605 15.0981H23.6247C23.5182 15.0981 23.4283 15.188 23.4283 15.2945V27.1369C23.4283 27.4389 23.1834 27.6838 22.8814 27.6838H20.8771L25.6149 33.2638L30.3526 27.6838Z",
-                                                                fill: "#D9F45F"
+                                                                fill: "#FFD700"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/sections/Home3/About.tsx",
                                                                 lineNumber: 185,
@@ -8979,7 +8612,7 @@ const services = [
     }
 ];
 function ServiceSection() {
-    const [activeIndex, setActiveIndex] = (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react__$5b$external$5d$__$28$react$2c$__cjs$29$__["useState"])(1);
+    const [activeIndex, setActiveIndex] = (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react__$5b$external$5d$__$28$react$2c$__cjs$29$__["useState"])(0);
     (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react__$5b$external$5d$__$28$react$2c$__cjs$29$__["useEffect"])(()=>{
         __turbopack_context__.A("[externals]/aos [external] (aos, cjs, [project]/node_modules/aos, async loader)").then((AOS)=>{
             AOS.init({
@@ -10835,7 +10468,7 @@ function Contact() {
                                                     children: [
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h6", {
                                                             className: "email",
-                                                            children: "marketing@axisgorizon.com"
+                                                            children: "info@axisgorizon.com"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/Home3/Contact.tsx",
                                                             lineNumber: 41,
@@ -10843,7 +10476,7 @@ function Contact() {
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h3", {
                                                             className: "phone",
-                                                            children: "(+49) 000 000 000"
+                                                            children: "+49 1521 2384897"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/Home3/Contact.tsx",
                                                             lineNumber: 42,

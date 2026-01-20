@@ -29,7 +29,7 @@ function Home3() {
                 <Testimonials />
                 {/* <Teams /> */}
                 {/* <Pricing /> */}
-                <Clients />
+                {/* <Clients /> */}
                 <Contact />
                 {/* <Blog /> */}
             </Layout>

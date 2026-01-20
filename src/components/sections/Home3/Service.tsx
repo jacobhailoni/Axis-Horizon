@@ -39,19 +39,19 @@ const services = [
     title: "Social Media Management",
     category: "Content & Community",
     icon: "theme-icon16.png",
-    delay: 0.8,
+    delay: 0.6,
   },
   {
     title: "Kreatives Design",
     category: "Branding & visuelle Identität",
     icon: "theme-icon17.png",
-    delay: 1.0,
+    delay: 0.6,
   },
   {
     title: "Online-Shop Lösungen",
     category: "E-Commerce & Conversion",
     icon: "theme-icon18.png",
-    delay: 1.2,
+    delay: 0.6,
   },
 ];
 

@@ -2,5 +2,7 @@
   "/": "pages/index.js",
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
-  "/page-contact": "pages/page-contact.js"
+  "/page-about": "pages/page-about.js",
+  "/page-contact": "pages/page-contact.js",
+  "/page-services": "pages/page-services.js"
 }

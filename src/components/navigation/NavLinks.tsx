@@ -5,7 +5,7 @@ const NavLinks = () => {
     return (
 
     <ul className="navigation">
-        <li className="current dropdown"><Link href="/">Home</Link>
+        <li><Link href="/">Heim</Link>
             {/* <ul>
             <li><Link href="/">Home page 01</Link></li>
             <li><Link href="/index-2">Home page 02</Link></li>
@@ -16,7 +16,8 @@ const NavLinks = () => {
             <li><Link href="/index-7">Home page 07</Link></li>                      
             </ul> */}
         </li>
-        <li className="dropdown"><Link href="#">Pages</Link>
+        <li><Link href="/page-about">Über uns</Link></li>
+        {/* <li className="dropdown"><Link href="#">Pages</Link>
             <ul>
             <li><Link href="/page-about">About</Link></li>
             <li><Link href="/page-pricing">Pricing</Link></li>
@@ -45,20 +46,20 @@ const NavLinks = () => {
             </li> 
             <li><Link href="/page-404">Page 404</Link></li>
             </ul>
-        </li>                  
-        <li className="dropdown"><Link href="#">Services</Link>
-            <ul>
+        </li>                   */}
+        <li><Link href="/page-services">Dienstleistungen</Link>
+            {/* <ul>
             <li><Link href="/page-services">Services List</Link></li>
             <li><Link href="/page-service-details">Service Details</Link></li>
-            </ul>
+            </ul> */}
         </li>
-        <li className="dropdown"><Link href="#">Projects</Link>
+        {/* <li className="dropdown"><Link href="#">Projects</Link>
             <ul>
             <li><Link href="/page-project">Projects</Link></li>
             <li><Link href="page-project-details">Project Details</Link></li>
             </ul>
-        </li>                                   
-        <li><Link href="/page-contact">Contact</Link></li>
+        </li>                                    */}
+        <li><Link href="/page-contact">Kontakt</Link></li>
     </ul>
 
     );

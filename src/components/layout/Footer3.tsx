@@ -25,7 +25,7 @@ function Footer3() {
                   </div>
                   <div className="social-widget">
                     <ul className="social-icon-list1">
-                      <li>
+                      {/* <li>
                         <Link
                           href="https://twitter.com"
                           target="_blank"
@@ -33,10 +33,10 @@ function Footer3() {
                         >
                           <i className="fab fa-twitter" />
                         </Link>
-                      </li>
+                      </li> */}
                       <li>
                         <Link
-                          href="https://facebook.com"
+                          href="https://www.facebook.com/646493791872312?ref=_xav_ig_profile_page_web"
                           target="_blank"
                           aria-label="Facebook"
                         >
@@ -45,16 +45,16 @@ function Footer3() {
                       </li>
                       <li>
                         <Link
-                          href="https://pinterest.com"
+                          href="https://www.linkedin.com/company/axis-horizon"
                           target="_blank"
-                          aria-label="Pinterest"
+                          aria-label="LinkedIn"
                         >
-                          <i className="fab fa-pinterest-p" />
+                          <i className="fab fa-linkedin" />
                         </Link>
                       </li>
                       <li>
                         <Link
-                          href="https://instagram.com"
+                          href="https://www.instagram.com/axishorizonglobal/"
                           target="_blank"
                           aria-label="Instagram"
                         >
@@ -62,6 +62,10 @@ function Footer3() {
                         </Link>
                       </li>
                     </ul>
+                  </div>
+                  <div className="text mt-5">
+                    <b className="text-white">HRB 275044 B</b> <br />
+                    <b className="text-white">USt-IdNr. DE455957479</b> <br />
                   </div>
                 </div>
               </div>
@@ -142,7 +146,12 @@ function Footer3() {
                     </div>
                     <div className="content-box">
                       <h6 className="title">Adresse:</h6>
-                      <p>Vulkanstraße 12 C, 10365 Berlin</p>
+                      <Link
+                        href="https://maps.app.goo.gl/3apQE64PvjwXjnVD7"
+                        className="link"
+                      >
+                        Vulkanstraße 12 C, 10365 Berlin
+                      </Link>
                     </div>
                   </div>
                   <div className="contact-info-box">
@@ -152,8 +161,8 @@ function Footer3() {
                     <div className="content-box">
                       <h6 className="title">Telefon:</h6>
                       <p>
-                        <Link href="tel:1234567890" className="link">
-                          +49 000 000000
+                        <Link href="tel:+4915212384897" className="link">
+                          +49 1521 2384897
                         </Link>
                       </p>
                     </div>
@@ -166,8 +175,8 @@ function Footer3() {
             <div className="container">
               <div className="inner-container justify-content-center">
                 <p className="copyright-text">
-                  © {new Date().getFullYear()} All rights reserved by
-                  Digitaal.com
+                  © {new Date().getFullYear()} All rights reserved by Axis
+                  Horizon GmbH.
                 </p>
               </div>
             </div>

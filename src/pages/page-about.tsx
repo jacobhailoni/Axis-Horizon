@@ -9,7 +9,7 @@ function AboutPage() {
     return (
         <>
             <Layout HeaderStyle="three" FooterStyle="three">
-                <PageTitle pageName="About Us" />
+                <PageTitle pageName="Über uns" />
                 <About />
                 <Video />
                 <Service className="pb-120" />
