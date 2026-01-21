@@ -12813,9 +12813,10 @@ ul, li {
   height: 55px;
   color: var(--theme-color6);
   border-bottom: 1px solid var(--theme-color12);
-  background-color: #0000;
-  border-radius: 0;
+  background-color: #fff;
+  border-radius: 5px;
   margin-bottom: 0;
+  padding-left: 10px;
   font-size: 14px;
   font-weight: 400;
   line-height: 29px;
@@ -23704,7 +23705,7 @@ table.tbl-shopping-cart > thead > tr > th, table.tbl-shopping-cart > tbody > tr 
 }
 
 .react-datepicker__time-container {
-  border-left: 1px solid #e5e7eb;
+  border-left: 1px solid #fff;
 }
 
 .react-datepicker__time-container .react-datepicker__time .react-datepicker__time-box {

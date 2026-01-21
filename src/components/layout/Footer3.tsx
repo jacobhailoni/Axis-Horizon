@@ -76,7 +76,7 @@ function Footer3() {
                   <div className="text mt-5">
                     <b className="text-white">HRB 275044 B</b> <br />
                     <b className="text-white">USt-IdNr. DE455957479</b> <br />
-                    <b className="text-white">37/213/53929</b>
+                    {/* <b className="text-white">37/213/53929</b> */}
                   </div>
                 </div>
               </div>
@@ -112,8 +112,14 @@ function Footer3() {
                 <ul className="user-links">
                   <li>
                     <Link href="/">Impressum</Link>
+                  </li>
+                  <li>
                     <Link href="/">Datenschutzerklärung</Link>
+                  </li>
+                  <li>
                     <Link href="/">AGB</Link>
+                  </li>
+                  <li>
                     <Link href="/">Cookie-Einstellungen</Link>
                   </li>
                 </ul>
@@ -131,10 +137,10 @@ function Footer3() {
                       <h6 className="title">E-Mail:</h6>
                       <p>
                         <Link
-                          href="mailto:info@axishorizonglobal.com"
+                          href="mailto:info@axishorizonglobal.de"
                           className="link"
                         >
-                          info@axishorizonglobal.com
+                          info@axishorizonglobal.de
                         </Link>
                       </p>
                     </div>

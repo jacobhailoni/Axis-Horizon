@@ -152,7 +152,7 @@ exports.handler = async (event, context) => {
         summary: `Meeting mit ${name}`,
         description: `Meeting-Anfrage über Kontaktformular.\n\nBetreff: ${subject || 'Nicht angegeben'}\n\nBudget: ${budget || 'Nicht angegeben'}\n\nNachricht: ${message}`,
         location: meetingLink,
-        organizerEmail: 'info@axishorizon.com',
+        organizerEmail: 'info@axishorizonglobal.com',
         attendeeEmail: email,
         attendeeName: name,
       });
@@ -164,10 +164,10 @@ exports.handler = async (event, context) => {
       };
     }
 
-    // Email to company (info@axishorizon.com)
+    // Email to company (info@axishorizonglobal.com)
     const companyMailOptions = {
       from: process.env.EMAIL_USER,
-      to: 'info@axishorizon.com',
+      to: 'info@axishorizonglobal.com',
       subject: `🔔 Neue Kontaktanfrage${meetingDate ? ' mit Terminwunsch' : ''} von ${name}`,
       html: `
         <!DOCTYPE html>
@@ -272,7 +272,7 @@ exports.handler = async (event, context) => {
               <p style="margin: 5px 0;">Vulkanstraße 12 C<br/>10365 Berlin</p>
               <p style="margin: 5px 0;">
                 📞 <a href="tel:+4915212384897">+49 1521 2384897</a><br/>
-                ✉️ <a href="mailto:info@axishorizon.com">info@axishorizon.com</a>
+                ✉️ <a href="mailto:info@axishorizonglobal.com">info@axishorizonglobal.com</a>
               </p>
             </div>
           </div>

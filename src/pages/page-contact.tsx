@@ -1,7 +1,7 @@
 import React from 'react';
 import Layout from "../layouts/MainLayout";
 import PageTitle from '../components/sections/PageTitle';
-import Contact from '../components/sections/ContactUs/Contact';
+import Contact from "../components/sections/Home3/Contact";
 
 function ContactPage() {
 

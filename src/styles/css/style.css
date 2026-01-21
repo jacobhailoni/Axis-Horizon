@@ -13187,9 +13187,10 @@ Section Title
   line-height: 29px;
   font-weight: 400;
   color: var(--theme-color6);
-  background-color: transparent;
+  background-color: #ffffff;
+  padding-left: 10px;
   border-bottom: 1px solid var(--theme-color12);
-  border-radius: 0;
+  border-radius: 5px;
   margin-bottom: 0;
   -webkit-transition: all 300ms ease;
   transition: all 300ms ease;
@@ -24105,7 +24106,7 @@ Sidebar
 
 /* Time Picker */
 .react-datepicker__time-container {
-  border-left: 1px solid #e5e7eb;
+  border-left: 1px solid #fff;
 }
 
 .react-datepicker__time-container .react-datepicker__time .react-datepicker__time-box {

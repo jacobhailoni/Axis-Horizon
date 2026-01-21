@@ -1492,14 +1492,6 @@ function Footer3() {
                                                                 fileName: "[project]/src/components/layout/Footer3.tsx",
                                                                 lineNumber: 78,
                                                                 columnNumber: 73
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("b", {
-                                                                className: "text-white",
-                                                                children: "37/213/53929"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                                lineNumber: 79,
-                                                                columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
@@ -1656,47 +1648,65 @@ function Footer3() {
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("ul", {
                                                 className: "user-links",
-                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                                    children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                             href: "/",
                                                             children: "Impressum"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/layout/Footer3.tsx",
                                                             lineNumber: 114,
                                                             columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
+                                                        }, this)
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/layout/Footer3.tsx",
+                                                        lineNumber: 113,
+                                                        columnNumber: 19
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                             href: "/",
                                                             children: "Datenschutzerklärung"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                            lineNumber: 115,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                            href: "/",
-                                                            children: "AGB"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                            lineNumber: 116,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                            href: "/",
-                                                            children: "Cookie-Einstellungen"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/layout/Footer3.tsx",
                                                             lineNumber: 117,
                                                             columnNumber: 21
                                                         }, this)
-                                                    ]
-                                                }, void 0, true, {
-                                                    fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                    lineNumber: 113,
-                                                    columnNumber: 19
-                                                }, this)
-                                            }, void 0, false, {
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/layout/Footer3.tsx",
+                                                        lineNumber: 116,
+                                                        columnNumber: 19
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
+                                                            href: "/",
+                                                            children: "AGB"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/layout/Footer3.tsx",
+                                                            lineNumber: 120,
+                                                            columnNumber: 21
+                                                        }, this)
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/layout/Footer3.tsx",
+                                                        lineNumber: 119,
+                                                        columnNumber: 19
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
+                                                            href: "/",
+                                                            children: "Cookie-Einstellungen"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/layout/Footer3.tsx",
+                                                            lineNumber: 123,
+                                                            columnNumber: 21
+                                                        }, this)
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/layout/Footer3.tsx",
+                                                        lineNumber: 122,
+                                                        columnNumber: 19
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
                                                 fileName: "[project]/src/components/layout/Footer3.tsx",
                                                 lineNumber: 112,
                                                 columnNumber: 17
@@ -1722,7 +1732,7 @@ function Footer3() {
                                                 children: "Kontakt"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                lineNumber: 124,
+                                                lineNumber: 130,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -1737,12 +1747,12 @@ function Footer3() {
                                                                     className: "fa fa-envelope"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                                    lineNumber: 128,
+                                                                    lineNumber: 134,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                                lineNumber: 127,
+                                                                lineNumber: 133,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -1753,34 +1763,34 @@ function Footer3() {
                                                                         children: "E-Mail:"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                                        lineNumber: 131,
+                                                                        lineNumber: 137,
                                                                         columnNumber: 23
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("p", {
                                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                                                            href: "mailto:info@axishorizonglobal.com",
+                                                                            href: "mailto:info@axishorizonglobal.de",
                                                                             className: "link",
-                                                                            children: "info@axishorizonglobal.com"
+                                                                            children: "info@axishorizonglobal.de"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                                            lineNumber: 133,
+                                                                            lineNumber: 139,
                                                                             columnNumber: 25
                                                                         }, this)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                                        lineNumber: 132,
+                                                                        lineNumber: 138,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                                lineNumber: 130,
+                                                                lineNumber: 136,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                        lineNumber: 126,
+                                                        lineNumber: 132,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -1792,12 +1802,12 @@ function Footer3() {
                                                                     className: "fa fa-map-marker-alt"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                                    lineNumber: 144,
+                                                                    lineNumber: 150,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                                lineNumber: 143,
+                                                                lineNumber: 149,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -1808,7 +1818,7 @@ function Footer3() {
                                                                         children: "Adresse:"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                                        lineNumber: 147,
+                                                                        lineNumber: 153,
                                                                         columnNumber: 23
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -1817,19 +1827,19 @@ function Footer3() {
                                                                         children: "Vulkanstraße 12 C, 10365 Berlin"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                                        lineNumber: 148,
+                                                                        lineNumber: 154,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                                lineNumber: 146,
+                                                                lineNumber: 152,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                        lineNumber: 142,
+                                                        lineNumber: 148,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -1841,12 +1851,12 @@ function Footer3() {
                                                                     className: "fa fa-phone"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                                    lineNumber: 158,
+                                                                    lineNumber: 164,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                                lineNumber: 157,
+                                                                lineNumber: 163,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -1857,7 +1867,7 @@ function Footer3() {
                                                                         children: "Telefon:"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                                        lineNumber: 161,
+                                                                        lineNumber: 167,
                                                                         columnNumber: 23
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("p", {
@@ -1867,41 +1877,41 @@ function Footer3() {
                                                                             children: "+49 1521 2384897"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                                            lineNumber: 163,
+                                                                            lineNumber: 169,
                                                                             columnNumber: 25
                                                                         }, this)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                                        lineNumber: 162,
+                                                                        lineNumber: 168,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                                lineNumber: 160,
+                                                                lineNumber: 166,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                        lineNumber: 156,
+                                                        lineNumber: 162,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/layout/Footer3.tsx",
-                                                lineNumber: 125,
+                                                lineNumber: 131,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/layout/Footer3.tsx",
-                                        lineNumber: 123,
+                                        lineNumber: 129,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/layout/Footer3.tsx",
-                                    lineNumber: 122,
+                                    lineNumber: 128,
                                     columnNumber: 13
                                 }, this)
                             ]
@@ -1925,22 +1935,22 @@ function Footer3() {
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/layout/Footer3.tsx",
-                                        lineNumber: 176,
+                                        lineNumber: 182,
                                         columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/layout/Footer3.tsx",
-                                    lineNumber: 175,
+                                    lineNumber: 181,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/components/layout/Footer3.tsx",
-                                lineNumber: 174,
+                                lineNumber: 180,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/components/layout/Footer3.tsx",
-                            lineNumber: 173,
+                            lineNumber: 179,
                             columnNumber: 11
                         }, this)
                     ]
@@ -8021,48 +8031,31 @@ function Video() {
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                 className: "content",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
-                                        className: "stylish-text",
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("img", {
-                                            src: "assets/images/resource/stylish-title.svg",
-                                            alt: "Image"
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
+                                    onClick: ()=>setOpen(true),
+                                    className: "play-now",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
+                                            className: "icon fa-solid fa-play"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/sections/Home3/Video.tsx",
-                                            lineNumber: 19,
+                                            lineNumber: 25,
+                                            columnNumber: 17
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
+                                            className: "ripple"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/sections/Home3/Video.tsx",
+                                            lineNumber: 26,
                                             columnNumber: 17
                                         }, this)
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/components/sections/Home3/Video.tsx",
-                                        lineNumber: 18,
-                                        columnNumber: 15
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                                        onClick: ()=>setOpen(true),
-                                        className: "play-now",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("i", {
-                                                className: "icon fa-solid fa-play"
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/components/sections/Home3/Video.tsx",
-                                                lineNumber: 25,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
-                                                className: "ripple"
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/components/sections/Home3/Video.tsx",
-                                                lineNumber: 26,
-                                                columnNumber: 17
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/src/components/sections/Home3/Video.tsx",
-                                        lineNumber: 24,
-                                        columnNumber: 15
-                                    }, this)
-                                ]
-                            }, void 0, true, {
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/src/components/sections/Home3/Video.tsx",
+                                    lineNumber: 24,
+                                    columnNumber: 15
+                                }, this)
+                            }, void 0, false, {
                                 fileName: "[project]/src/components/sections/Home3/Video.tsx",
                                 lineNumber: 17,
                                 columnNumber: 13
@@ -8342,7 +8335,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link
 const services = [
     {
         number: "01",
-        title: "UX/UI Design",
+        title: "UI/UX Design",
         icon: "flaticon-paint-roller",
         Image: "service-ui-ux-design.png",
         description: "Wir gestalten intuitive Benutzeroberflächen mit klarer Struktur, die Nutzer gezielt führen und Conversions nachhaltig steigern.",
@@ -9920,17 +9913,17 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$dat
 ;
 function Contact() {
     const [formData, setFormData] = (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react__$5b$external$5d$__$28$react$2c$__cjs$29$__["useState"])({
-        fName: '',
-        eAddress: '',
-        ysubject: '',
-        ybudget: '',
-        yMessage: '',
-        meetingType: 'google-meet'
+        fName: "",
+        eAddress: "",
+        ysubject: "",
+        ybudget: "",
+        yMessage: "",
+        meetingType: "google-meet"
     });
     const [selectedDateTime, setSelectedDateTime] = (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react__$5b$external$5d$__$28$react$2c$__cjs$29$__["useState"])(null);
     const [status, setStatus] = (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react__$5b$external$5d$__$28$react$2c$__cjs$29$__["useState"])({
-        type: '',
-        message: ''
+        type: "",
+        message: ""
     });
     const [loading, setLoading] = (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react__$5b$external$5d$__$28$react$2c$__cjs$29$__["useState"])(false);
     const handleChange = (e)=>{
@@ -9943,21 +9936,21 @@ function Contact() {
         e.preventDefault();
         setLoading(true);
         setStatus({
-            type: '',
-            message: ''
+            type: "",
+            message: ""
         });
         try {
             // Format date and time from selectedDateTime
-            let meetingDate = '';
-            let meetingTime = '';
+            let meetingDate = "";
+            let meetingTime = "";
             if (selectedDateTime) {
-                meetingDate = selectedDateTime.toISOString().split('T')[0];
-                meetingTime = selectedDateTime.toTimeString().split(' ')[0].substring(0, 5);
+                meetingDate = selectedDateTime.toISOString().split("T")[0];
+                meetingTime = selectedDateTime.toTimeString().split(" ")[0].substring(0, 5);
             }
-            const response = await fetch('/.netlify/functions/schedule-meeting', {
-                method: 'POST',
+            const response = await fetch("/.netlify/functions/schedule-meeting", {
+                method: "POST",
                 headers: {
-                    'Content-Type': 'application/json'
+                    "Content-Type": "application/json"
                 },
                 body: JSON.stringify({
                     name: formData.fName,
@@ -9973,35 +9966,35 @@ function Contact() {
             const data = await response.json();
             if (response.ok) {
                 setStatus({
-                    type: 'success',
-                    message: 'Ihre Nachricht wurde erfolgreich gesendet! Wir melden uns bald bei Ihnen.'
+                    type: "success",
+                    message: "Ihre Nachricht wurde erfolgreich gesendet! Wir melden uns bald bei Ihnen."
                 });
                 setFormData({
-                    fName: '',
-                    eAddress: '',
-                    ysubject: '',
-                    ybudget: '',
-                    yMessage: '',
-                    meetingType: 'google-meet'
+                    fName: "",
+                    eAddress: "",
+                    ysubject: "",
+                    ybudget: "",
+                    yMessage: "",
+                    meetingType: "google-meet"
                 });
                 setSelectedDateTime(null);
             } else {
                 setStatus({
-                    type: 'error',
-                    message: data.error || 'Etwas ist schief gelaufen. Bitte versuchen Sie es erneut.'
+                    type: "error",
+                    message: data.error || "Etwas ist schief gelaufen. Bitte versuchen Sie es erneut."
                 });
             }
         } catch (error) {
-            console.error('Form submission error:', error);
+            console.error("Form submission error:", error);
             setStatus({
-                type: 'error',
-                message: 'Anfrage fehlgeschlagen. Bitte versuchen Sie es später erneut. Fehler: ' + (error instanceof Error ? error.message : 'Unbekannter Fehler')
+                type: "error",
+                message: "Anfrage fehlgeschlagen. Bitte versuchen Sie es später erneut. Fehler: " + (error instanceof Error ? error.message : "Unbekannter Fehler")
             });
         } finally{
             setLoading(false);
         }
     };
-    const today = new Date().toISOString().split('T')[0];
+    const today = new Date().toISOString().split("T")[0];
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["Fragment"], {
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("section", {
             className: "contact-section style-four pt-0",
@@ -10015,17 +10008,17 @@ function Contact() {
                             alt: "Image"
                         }, void 0, false, {
                             fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                            lineNumber: 99,
+                            lineNumber: 111,
                             columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                        lineNumber: 98,
+                        lineNumber: 110,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                    lineNumber: 97,
+                    lineNumber: 109,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -10038,7 +10031,7 @@ function Contact() {
                             }
                         }, void 0, false, {
                             fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                            lineNumber: 103,
+                            lineNumber: 115,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -10063,14 +10056,14 @@ function Contact() {
                                                                     alt: "Image"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                    lineNumber: 116,
+                                                                    lineNumber: 128,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 "Jetzt Kontakt aufnehmen"
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                            lineNumber: 115,
+                                                            lineNumber: 127,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h2", {
@@ -10083,19 +10076,19 @@ function Contact() {
                                                                     children: "lassen Sie uns ihn gemeinsam erreichen"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                    lineNumber: 125,
+                                                                    lineNumber: 137,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                            lineNumber: 123,
+                                                            lineNumber: 135,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                    lineNumber: 114,
+                                                    lineNumber: 126,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -10103,10 +10096,10 @@ function Contact() {
                                                     children: [
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h6", {
                                                             className: "email",
-                                                            children: "info@axishorizon.com"
+                                                            children: "info@axishorizonglobal.de"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                            lineNumber: 131,
+                                                            lineNumber: 143,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h3", {
@@ -10114,24 +10107,24 @@ function Contact() {
                                                             children: "+49 1521 2384897"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                            lineNumber: 132,
+                                                            lineNumber: 144,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                    lineNumber: 130,
+                                                    lineNumber: 142,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                            lineNumber: 113,
+                                            lineNumber: 125,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                        lineNumber: 112,
+                                        lineNumber: 124,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -10152,7 +10145,7 @@ function Contact() {
                                                                         children: "Name *"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                        lineNumber: 142,
+                                                                        lineNumber: 154,
                                                                         columnNumber: 27
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("input", {
@@ -10161,36 +10154,6 @@ function Contact() {
                                                                         name: "fName",
                                                                         placeholder: "Ihr vollständiger Name",
                                                                         value: formData.fName,
-                                                                        onChange: handleChange,
-                                                                        required: true
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                        lineNumber: 143,
-                                                                        columnNumber: 27
-                                                                    }, this)
-                                                                ]
-                                                            }, void 0, true, {
-                                                                fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                lineNumber: 141,
-                                                                columnNumber: 25
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
-                                                                className: "form-group col-lg-6 col-md-6",
-                                                                children: [
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("label", {
-                                                                        htmlFor: "eAddress",
-                                                                        children: "E-Mail-Adresse *"
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                        lineNumber: 154,
-                                                                        columnNumber: 27
-                                                                    }, this),
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("input", {
-                                                                        type: "email",
-                                                                        id: "eAddress",
-                                                                        name: "eAddress",
-                                                                        placeholder: "Ihre E-Mail-Adresse",
-                                                                        value: formData.eAddress,
                                                                         onChange: handleChange,
                                                                         required: true
                                                                     }, void 0, false, {
@@ -10208,20 +10171,21 @@ function Contact() {
                                                                 className: "form-group col-lg-6 col-md-6",
                                                                 children: [
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("label", {
-                                                                        htmlFor: "ysubject",
-                                                                        children: "Betreff"
+                                                                        htmlFor: "eAddress",
+                                                                        children: "E-Mail-Adresse *"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/sections/Home3/Contact.tsx",
                                                                         lineNumber: 166,
                                                                         columnNumber: 27
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("input", {
-                                                                        type: "text",
-                                                                        id: "ysubject",
-                                                                        name: "ysubject",
-                                                                        placeholder: "Worum geht es?",
-                                                                        value: formData.ysubject,
-                                                                        onChange: handleChange
+                                                                        type: "email",
+                                                                        id: "eAddress",
+                                                                        name: "eAddress",
+                                                                        placeholder: "Ihre E-Mail-Adresse",
+                                                                        value: formData.eAddress,
+                                                                        onChange: handleChange,
+                                                                        required: true
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/sections/Home3/Contact.tsx",
                                                                         lineNumber: 167,
@@ -10237,11 +10201,40 @@ function Contact() {
                                                                 className: "form-group col-lg-6 col-md-6",
                                                                 children: [
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("label", {
+                                                                        htmlFor: "ysubject",
+                                                                        children: "Betreff"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/src/components/sections/Home3/Contact.tsx",
+                                                                        lineNumber: 178,
+                                                                        columnNumber: 27
+                                                                    }, this),
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("input", {
+                                                                        type: "text",
+                                                                        id: "ysubject",
+                                                                        name: "ysubject",
+                                                                        placeholder: "Worum geht es?",
+                                                                        value: formData.ysubject,
+                                                                        onChange: handleChange
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/src/components/sections/Home3/Contact.tsx",
+                                                                        lineNumber: 179,
+                                                                        columnNumber: 27
+                                                                    }, this)
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/src/components/sections/Home3/Contact.tsx",
+                                                                lineNumber: 177,
+                                                                columnNumber: 25
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
+                                                                className: "form-group col-lg-6 col-md-6",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("label", {
                                                                         htmlFor: "ybudget",
                                                                         children: "Ihr Budget"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                        lineNumber: 177,
+                                                                        lineNumber: 189,
                                                                         columnNumber: 27
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("input", {
@@ -10253,13 +10246,13 @@ function Contact() {
                                                                         onChange: handleChange
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                        lineNumber: 178,
+                                                                        lineNumber: 190,
                                                                         columnNumber: 27
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                lineNumber: 176,
+                                                                lineNumber: 188,
                                                                 columnNumber: 25
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -10270,7 +10263,7 @@ function Contact() {
                                                                         children: "Nachricht *"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                        lineNumber: 188,
+                                                                        lineNumber: 200,
                                                                         columnNumber: 27
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("textarea", {
@@ -10283,45 +10276,45 @@ function Contact() {
                                                                         required: true
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                        lineNumber: 189,
+                                                                        lineNumber: 201,
                                                                         columnNumber: 27
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                lineNumber: 187,
+                                                                lineNumber: 199,
                                                                 columnNumber: 25
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                 className: "form-group col-lg-12",
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                     style: {
-                                                                        borderTop: '1px solid #e5e7eb',
-                                                                        paddingTop: '20px',
-                                                                        marginTop: '10px',
-                                                                        marginBottom: '15px'
+                                                                        borderTop: "1px solid #e5e7eb",
+                                                                        paddingTop: "20px",
+                                                                        marginTop: "10px",
+                                                                        marginBottom: "15px"
                                                                     },
                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("label", {
                                                                         style: {
-                                                                            fontSize: '16px',
-                                                                            fontWeight: '600',
-                                                                            marginBottom: '15px',
-                                                                            display: 'block'
+                                                                            fontSize: "16px",
+                                                                            fontWeight: "600",
+                                                                            marginBottom: "15px",
+                                                                            display: "block"
                                                                         },
                                                                         children: "📅 Termin vereinbaren (Optional)"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                        lineNumber: 208,
+                                                                        lineNumber: 222,
                                                                         columnNumber: 29
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                    lineNumber: 202,
+                                                                    lineNumber: 214,
                                                                     columnNumber: 27
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                lineNumber: 201,
+                                                                lineNumber: 213,
                                                                 columnNumber: 25
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -10332,15 +10325,18 @@ function Contact() {
                                                                         children: "Datum & Uhrzeit wählen"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                        lineNumber: 220,
+                                                                        lineNumber: 236,
                                                                         columnNumber: 27
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$datepicker$2f$dist$2f$index$2e$es$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
+                                                                        onKeyDown: (e)=>{
+                                                                            e.preventDefault(); // Prevents all keyboard input
+                                                                        },
                                                                         selected: selectedDateTime,
                                                                         onChange: (date)=>setSelectedDateTime(date),
                                                                         showTimeSelect: true,
                                                                         timeFormat: "HH:mm",
-                                                                        timeIntervals: 15,
+                                                                        timeIntervals: 30,
                                                                         timeCaption: "Uhrzeit",
                                                                         dateFormat: "dd.MM.yyyy HH:mm",
                                                                         minDate: new Date(),
@@ -10351,13 +10347,13 @@ function Contact() {
                                                                         locale: "de"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                        lineNumber: 221,
+                                                                        lineNumber: 239,
                                                                         columnNumber: 27
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                lineNumber: 219,
+                                                                lineNumber: 235,
                                                                 columnNumber: 25
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -10368,7 +10364,7 @@ function Contact() {
                                                                         children: "Meeting-Plattform"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                        lineNumber: 238,
+                                                                        lineNumber: 261,
                                                                         columnNumber: 27
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("select", {
@@ -10377,13 +10373,13 @@ function Contact() {
                                                                         value: formData.meetingType,
                                                                         onChange: handleChange,
                                                                         style: {
-                                                                            width: '100%',
-                                                                            padding: '12px 20px',
-                                                                            border: '1px solid #e5e7eb',
-                                                                            borderRadius: '5px',
-                                                                            fontSize: '14px',
-                                                                            backgroundColor: '#fff',
-                                                                            cursor: 'pointer'
+                                                                            width: "100%",
+                                                                            padding: "12px 20px",
+                                                                            border: "1px solid #e5e7eb",
+                                                                            borderRadius: "5px",
+                                                                            fontSize: "14px",
+                                                                            backgroundColor: "#fff",
+                                                                            cursor: "pointer"
                                                                         },
                                                                         children: [
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("option", {
@@ -10391,7 +10387,7 @@ function Contact() {
                                                                                 children: "Google Meet"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                                lineNumber: 254,
+                                                                                lineNumber: 277,
                                                                                 columnNumber: 29
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("option", {
@@ -10399,7 +10395,7 @@ function Contact() {
                                                                                 children: "Zoom"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                                lineNumber: 255,
+                                                                                lineNumber: 278,
                                                                                 columnNumber: 29
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("option", {
@@ -10407,41 +10403,41 @@ function Contact() {
                                                                                 children: "Microsoft Teams"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                                lineNumber: 256,
+                                                                                lineNumber: 279,
                                                                                 columnNumber: 29
                                                                             }, this)
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                        lineNumber: 239,
+                                                                        lineNumber: 262,
                                                                         columnNumber: 27
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                lineNumber: 237,
+                                                                lineNumber: 260,
                                                                 columnNumber: 25
                                                             }, this),
                                                             status.message && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                 className: "form-group col-lg-12",
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                                                                     style: {
-                                                                        padding: '15px 20px',
-                                                                        borderRadius: '5px',
-                                                                        marginBottom: '15px',
-                                                                        backgroundColor: status.type === 'success' ? '#d1fae5' : '#fee2e2',
-                                                                        border: `1px solid ${status.type === 'success' ? '#10b981' : '#ef4444'}`,
-                                                                        color: status.type === 'success' ? '#065f46' : '#991b1b'
+                                                                        padding: "15px 20px",
+                                                                        borderRadius: "5px",
+                                                                        marginBottom: "15px",
+                                                                        backgroundColor: status.type === "success" ? "#d1fae5" : "#fee2e2",
+                                                                        border: `1px solid ${status.type === "success" ? "#10b981" : "#ef4444"}`,
+                                                                        color: status.type === "success" ? "#065f46" : "#991b1b"
                                                                     },
                                                                     children: status.message
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                    lineNumber: 263,
+                                                                    lineNumber: 286,
                                                                     columnNumber: 29
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                lineNumber: 262,
+                                                                lineNumber: 285,
                                                                 columnNumber: 27
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -10453,15 +10449,15 @@ function Contact() {
                                                                     disabled: loading,
                                                                     style: {
                                                                         opacity: loading ? 0.6 : 1,
-                                                                        cursor: loading ? 'not-allowed' : 'pointer'
+                                                                        cursor: loading ? "not-allowed" : "pointer"
                                                                     },
                                                                     children: [
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
                                                                             className: "btn-title",
-                                                                            children: loading ? 'Wird gesendet...' : 'Anfrage senden'
+                                                                            children: loading ? "Wird gesendet..." : "Anfrage senden"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                            lineNumber: 287,
+                                                                            lineNumber: 318,
                                                                             columnNumber: 29
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("span", {
@@ -10470,72 +10466,72 @@ function Contact() {
                                                                                 className: "dot-item"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                                lineNumber: 291,
+                                                                                lineNumber: 322,
                                                                                 columnNumber: 31
                                                                             }, this)
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                            lineNumber: 290,
+                                                                            lineNumber: 321,
                                                                             columnNumber: 29
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                    lineNumber: 277,
+                                                                    lineNumber: 308,
                                                                     columnNumber: 27
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                                lineNumber: 276,
+                                                                lineNumber: 307,
                                                                 columnNumber: 25
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                        lineNumber: 140,
+                                                        lineNumber: 152,
                                                         columnNumber: 23
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                    lineNumber: 139,
+                                                    lineNumber: 151,
                                                     columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                                lineNumber: 138,
+                                                lineNumber: 150,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                            lineNumber: 137,
+                                            lineNumber: 149,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                        lineNumber: 136,
+                                        lineNumber: 148,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                                lineNumber: 111,
+                                lineNumber: 123,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                            lineNumber: 110,
+                            lineNumber: 122,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-                    lineNumber: 102,
+                    lineNumber: 114,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/components/sections/Home3/Contact.tsx",
-            lineNumber: 96,
+            lineNumber: 108,
             columnNumber: 7
         }, this)
     }, void 0, false);

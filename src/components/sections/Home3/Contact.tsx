@@ -4,45 +4,52 @@ import "react-datepicker/dist/react-datepicker.css";
 
 function Contact() {
   const [formData, setFormData] = useState({
-    fName: '',
-    eAddress: '',
-    ysubject: '',
-    ybudget: '',
-    yMessage: '',
-    meetingType: 'google-meet'
+    fName: "",
+    eAddress: "",
+    ysubject: "",
+    ybudget: "",
+    yMessage: "",
+    meetingType: "google-meet",
   });
-  
+
   const [selectedDateTime, setSelectedDateTime] = useState<Date | null>(null);
-  
-  const [status, setStatus] = useState({ type: '', message: '' });
+
+  const [status, setStatus] = useState({ type: "", message: "" });
   const [loading, setLoading] = useState(false);
 
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
+  const handleChange = (
+    e: React.ChangeEvent<
+      HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement
+    >,
+  ) => {
     setFormData({
       ...formData,
-      [e.target.name]: e.target.value
+      [e.target.name]: e.target.value,
     });
   };
 
   const handleSubmit = async (e: React.MouseEvent<HTMLButtonElement>) => {
     e.preventDefault();
     setLoading(true);
-    setStatus({ type: '', message: '' });
+    setStatus({ type: "", message: "" });
 
     try {
       // Format date and time from selectedDateTime
-      let meetingDate = '';
-      let meetingTime = '';
-      
+      let meetingDate = "";
+      let meetingTime = "";
+
       if (selectedDateTime) {
-        meetingDate = selectedDateTime.toISOString().split('T')[0];
-        meetingTime = selectedDateTime.toTimeString().split(' ')[0].substring(0, 5);
+        meetingDate = selectedDateTime.toISOString().split("T")[0];
+        meetingTime = selectedDateTime
+          .toTimeString()
+          .split(" ")[0]
+          .substring(0, 5);
       }
 
-      const response = await fetch('/.netlify/functions/schedule-meeting', {
-        method: 'POST',
+      const response = await fetch("/.netlify/functions/schedule-meeting", {
+        method: "POST",
         headers: {
-          'Content-Type': 'application/json',
+          "Content-Type": "application/json",
         },
         body: JSON.stringify({
           name: formData.fName,
@@ -52,7 +59,7 @@ function Contact() {
           message: formData.yMessage,
           meetingDate: meetingDate,
           meetingTime: meetingTime,
-          meetingType: formData.meetingType
+          meetingType: formData.meetingType,
         }),
       });
 
@@ -60,36 +67,41 @@ function Contact() {
 
       if (response.ok) {
         setStatus({
-          type: 'success',
-          message: 'Ihre Nachricht wurde erfolgreich gesendet! Wir melden uns bald bei Ihnen.'
+          type: "success",
+          message:
+            "Ihre Nachricht wurde erfolgreich gesendet! Wir melden uns bald bei Ihnen.",
         });
         setFormData({
-          fName: '',
-          eAddress: '',
-          ysubject: '',
-          ybudget: '',
-          yMessage: '',
-          meetingType: 'google-meet'
+          fName: "",
+          eAddress: "",
+          ysubject: "",
+          ybudget: "",
+          yMessage: "",
+          meetingType: "google-meet",
         });
         setSelectedDateTime(null);
       } else {
         setStatus({
-          type: 'error',
-          message: data.error || 'Etwas ist schief gelaufen. Bitte versuchen Sie es erneut.'
+          type: "error",
+          message:
+            data.error ||
+            "Etwas ist schief gelaufen. Bitte versuchen Sie es erneut.",
         });
       }
     } catch (error) {
-      console.error('Form submission error:', error);
+      console.error("Form submission error:", error);
       setStatus({
-        type: 'error',
-        message: 'Anfrage fehlgeschlagen. Bitte versuchen Sie es später erneut. Fehler: ' + (error instanceof Error ? error.message : 'Unbekannter Fehler')
+        type: "error",
+        message:
+          "Anfrage fehlgeschlagen. Bitte versuchen Sie es später erneut. Fehler: " +
+          (error instanceof Error ? error.message : "Unbekannter Fehler"),
       });
     } finally {
       setLoading(false);
     }
   };
 
-  const today = new Date().toISOString().split('T')[0];
+  const today = new Date().toISOString().split("T")[0];
 
   return (
     <>
@@ -118,7 +130,7 @@ function Contact() {
                         src="assets/images/icons/sub-title-shape.png"
                         alt="Image"
                       />
-                     Jetzt Kontakt aufnehmen
+                      Jetzt Kontakt aufnehmen
                     </span>
                     <h2 className="title wow fadeInUp">
                       Erfolg ist Teamarbeit{" "}
@@ -128,7 +140,7 @@ function Contact() {
                     </h2>
                   </div>
                   <div className="contact-info">
-                    <h6 className="email">info@axishorizon.com</h6>
+                    <h6 className="email">info@axishorizonglobal.de</h6>
                     <h3 className="phone">+49 1521 2384897</h3>
                   </div>
                 </div>
@@ -199,31 +211,42 @@ function Contact() {
 
                         {/* Meeting Scheduler Section */}
                         <div className="form-group col-lg-12">
-                          <div style={{ 
-                            borderTop: '1px solid #e5e7eb', 
-                            paddingTop: '20px', 
-                            marginTop: '10px',
-                            marginBottom: '15px'
-                          }}>
-                            <label style={{ 
-                              fontSize: '16px', 
-                              fontWeight: '600',
-                              marginBottom: '15px',
-                              display: 'block'
-                            }}>
+                          <div
+                            style={{
+                              borderTop: "1px solid #e5e7eb",
+                              paddingTop: "20px",
+                              marginTop: "10px",
+                              marginBottom: "15px",
+                            }}
+                          >
+                            <label
+                              style={{
+                                fontSize: "16px",
+                                fontWeight: "600",
+                                marginBottom: "15px",
+                                display: "block",
+                              }}
+                            >
                               📅 Termin vereinbaren (Optional)
                             </label>
                           </div>
                         </div>
 
                         <div className="form-group col-lg-12">
-                          <label htmlFor="meetingDateTime">Datum & Uhrzeit wählen</label>
+                          <label htmlFor="meetingDateTime">
+                            Datum & Uhrzeit wählen
+                          </label>
                           <DatePicker
+                            onKeyDown={(e) => {
+                              e.preventDefault(); // Prevents all keyboard input
+                            }}
                             selected={selectedDateTime}
-                            onChange={(date: Date | null) => setSelectedDateTime(date)}
+                            onChange={(date: Date | null) =>
+                              setSelectedDateTime(date)
+                            }
                             showTimeSelect
                             timeFormat="HH:mm"
-                            timeIntervals={15}
+                            timeIntervals={30}
                             timeCaption="Uhrzeit"
                             dateFormat="dd.MM.yyyy HH:mm"
                             minDate={new Date()}
@@ -242,13 +265,13 @@ function Contact() {
                             value={formData.meetingType}
                             onChange={handleChange}
                             style={{
-                              width: '100%',
-                              padding: '12px 20px',
-                              border: '1px solid #e5e7eb',
-                              borderRadius: '5px',
-                              fontSize: '14px',
-                              backgroundColor: '#fff',
-                              cursor: 'pointer'
+                              width: "100%",
+                              padding: "12px 20px",
+                              border: "1px solid #e5e7eb",
+                              borderRadius: "5px",
+                              fontSize: "14px",
+                              backgroundColor: "#fff",
+                              cursor: "pointer",
                             }}
                           >
                             <option value="google-meet">Google Meet</option>
@@ -260,14 +283,22 @@ function Contact() {
                         {/* Status Message */}
                         {status.message && (
                           <div className="form-group col-lg-12">
-                            <div style={{
-                              padding: '15px 20px',
-                              borderRadius: '5px',
-                              marginBottom: '15px',
-                              backgroundColor: status.type === 'success' ? '#d1fae5' : '#fee2e2',
-                              border: `1px solid ${status.type === 'success' ? '#10b981' : '#ef4444'}`,
-                              color: status.type === 'success' ? '#065f46' : '#991b1b'
-                            }}>
+                            <div
+                              style={{
+                                padding: "15px 20px",
+                                borderRadius: "5px",
+                                marginBottom: "15px",
+                                backgroundColor:
+                                  status.type === "success"
+                                    ? "#d1fae5"
+                                    : "#fee2e2",
+                                border: `1px solid ${status.type === "success" ? "#10b981" : "#ef4444"}`,
+                                color:
+                                  status.type === "success"
+                                    ? "#065f46"
+                                    : "#991b1b",
+                              }}
+                            >
                               {status.message}
                             </div>
                           </div>
@@ -281,11 +312,11 @@ function Contact() {
                             disabled={loading}
                             style={{
                               opacity: loading ? 0.6 : 1,
-                              cursor: loading ? 'not-allowed' : 'pointer'
+                              cursor: loading ? "not-allowed" : "pointer",
                             }}
                           >
                             <span className="btn-title">
-                              {loading ? 'Wird gesendet...' : 'Anfrage senden'}
+                              {loading ? "Wird gesendet..." : "Anfrage senden"}
                             </span>
                             <span className="dot-box">
                               <span className="dot-item"></span>

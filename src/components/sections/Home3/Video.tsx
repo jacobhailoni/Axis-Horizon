@@ -15,12 +15,12 @@ function Video() {
               }}
             ></div>
             <div className="content">
-              <div className="stylish-text">
+              {/* <div className="stylish-text">
                 <img
                   src="assets/images/resource/stylish-title.svg"
                   alt="Image"
                 />
-              </div>
+              </div> */}
               <a onClick={() => setOpen(true)} className="play-now">
                 <i className="icon fa-solid fa-play"></i>
                 <span className="ripple"></span>

@@ -4,7 +4,7 @@ import Link from "next/link";
 const services = [
   {
     number: "01",
-    title: "UX/UI Design",
+    title: "UI/UX Design",
     icon: "flaticon-paint-roller",
     Image: "service-ui-ux-design.png",
     description:

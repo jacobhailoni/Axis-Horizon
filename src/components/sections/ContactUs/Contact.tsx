@@ -122,8 +122,8 @@ const ContactPage = () => {
                     </div>
                     <div className="text ms-3">
                       <h4>E-Mail schreiben</h4>
-                      <a href="mailto:info@axishorizon.com">
-                        info@axishorizon.com
+                      <a href="mailto:info@axishorizonglobal.de">
+                        info@axishorizonglobal.de
                       </a>
                     </div>
                   </li>
