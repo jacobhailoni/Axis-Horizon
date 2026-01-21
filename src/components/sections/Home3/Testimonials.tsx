@@ -46,7 +46,7 @@ function Testimonials() {
       <section className="testimonial-section-three">
         <div className="scroll-text">
           <div className="title-stroke-text text1 fadeInUpBig">
-            <span>Zeug</span>nis
+            <span>REFER</span>ENZEN
           </div>
         </div>
         <div className="anim-icons">
@@ -62,10 +62,10 @@ function Testimonials() {
             <div className="sec-title">
               <div className="row">
                 <div className="col-xxl-6 col-xl-7 col-lg-8">
-                  <span className="sub-title">Unsere Erfahrungsberichte</span>
+                  <span className="sub-title">KUNDENFEEDBACK</span>
                   <h2 className="title">
-                    Hören Sie, was andere über eine
-                    <span className="color1">Partnerschaft mit uns sagen.</span>
+                    Erfahren Sie, was unsere Kunden 
+                    <span className="color1">über die Zusammenarbeit mit uns sagen.</span>
                   </h2>
                 </div>
                 <div className="col-xxl-4 col-xl-5 col-lg-4 offset-xxl-2">

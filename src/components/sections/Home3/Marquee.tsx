@@ -10,27 +10,27 @@ function Marquee() {
               Webentwicklung
             </h2>
             <h2 className="text" data-text="Project & Product Consulting">
-              Digital Marketing
+              Performance Marketing
             </h2>
             <h2 className="text" data-text="Mobile App Development">
-              Entwicklung mobiler Apps
+              App-Entwicklung
             </h2>
             <h2 className="text" data-text="Development">
-              Social Media Management
+              Social Media
             </h2>
           </div>
           <div aria-hidden="true" className="marquee-group">
             <h2 className="text" data-text="Web design">
-              Kreatives Design
+              Branding & Design
             </h2>
             <h2 className="text" data-text="Project & Product Consulting">
-              Online-Shop Lösungen
+              Online-Shops
             </h2>
             <h2 className="text" data-text="Mobile App Development">
               Wartung & Support
             </h2>
-            <h2 className="text" data-text="Project & Product Consulting">
-              Digital Marketing
+            <h2 className="text" data-text="Web design">
+              Webentwicklung
             </h2>
           </div>
         </div>

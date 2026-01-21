@@ -4,13 +4,13 @@ import Link from "next/link";
 const services = [
   {
     number: "01",
-    title: "UX / UI Design",
+    title: "UX/UI Design",
     icon: "flaticon-paint-roller",
     Image: "service-ui-ux-design.png",
     description:
-      "Wir gestalten intuitive Benutzeroberflächen mit klarer Struktur, die Nutzer führen und Conversions steigern.",
+      "Wir gestalten intuitive Benutzeroberflächen mit klarer Struktur, die Nutzer gezielt führen und Conversions nachhaltig steigern.",
     details: [
-      { label: "Corporate Identity", value: "UI / UX Design" },
+      { label: "Corporate Identity", value: "UI/UX Design" },
       { label: "Visuelle Planung", value: "Wireframes & Prototypen" },
       { label: "Rebranding", value: "Brand Experience" },
       { label: "Design-Systeme", value: "" },
@@ -23,7 +23,7 @@ const services = [
     icon: "flaticon-mobile-development",
     Image: "service-web-development.png",
     description:
-      "Moderne, performante Websites mit sauberem Code, optimiert für Geschwindigkeit, SEO und Skalierbarkeit.",
+      "Wir entwickeln moderne, performante Websites mit sauberem Code – optimiert für Geschwindigkeit, SEO und langfristige Skalierbarkeit.",
     details: [
       { label: "Frontend", value: "React / Next.js" },
       { label: "Backend", value: "APIs & CMS" },
@@ -38,7 +38,7 @@ const services = [
     icon: "flaticon-seo",
     Image: "service-seo-optimization.png",
     description:
-      "Suchmaschinenoptimierung mit Fokus auf Sichtbarkeit, qualifizierten Traffic und nachhaltiges Wachstum.",
+      "Wir optimieren Ihre Website gezielt für bessere Sichtbarkeit, qualifizierten Traffic und nachhaltiges Wachstum in den Suchmaschinen.",
     details: [
       { label: "On-Page SEO", value: "Technik & Content" },
       { label: "Keyword-Strategie", value: "Markt & Wettbewerb" },
@@ -53,7 +53,7 @@ const services = [
     icon: "flaticon-film",
     Image: "service-video-production.png",
     description:
-      "Professionelle Videos für Markenauftritt, Social Media und Performance-Kampagnen.",
+      "Wir produzieren professionelle Videos für starke Markenauftritte, Social Media und performanceorientierte Kampagnen",
     details: [
       { label: "Konzept", value: "Story & Skript" },
       { label: "Produktion", value: "Video & Animation" },
@@ -68,7 +68,7 @@ const services = [
     icon: "flaticon-seo",
     Image: "service-digital-marketing.png",
     description:
-      "Strategisches Online-Marketing zur Lead-Generierung und Skalierung von Marken.",
+      "Wir entwickeln strategisches Online-Marketing zur gezielten Lead-Generierung und skalierbaren Weiterentwicklung von Marken.",
     details: [
       { label: "Performance Ads", value: "Google & Meta" },
       { label: "Strategie", value: "Funnel & Ziele" },
@@ -83,7 +83,7 @@ const services = [
     icon: "flaticon-mobile-development",
     Image: "service-mobile-app-development.png",
     description:
-      "Individuelle Mobile-Apps für iOS und Android mit Fokus auf Performance und Benutzerfreundlichkeit.",
+      "Wir entwickeln individuelle Mobile Apps für iOS und Android – mit Fokus auf Performance, Nutzererlebnis und Skalierbarkeit.",
     details: [
       { label: "Plattformen", value: "iOS & Android" },
       { label: "Technologie", value: "Cross-Platform" },
@@ -98,7 +98,7 @@ const services = [
     icon: "flaticon-paint-roller",
     Image: "service-social-media-management.png",
     description:
-      "Planung, Erstellung und Verwaltung von Social-Media-Inhalten für nachhaltige Reichweite.",
+      "Wir planen, erstellen und verwalten Social-Media-Inhalte für nachhaltige Reichweite, Engagement und Community-Aufbau.",
     details: [
       { label: "Content", value: "Posts & Reels" },
       { label: "Redaktionsplan", value: "Struktur & Timing" },
@@ -113,7 +113,7 @@ const services = [
     icon: "flaticon-paint-roller",
     Image: "service-creative-design.png",
     description:
-      "Visuelle Konzepte, die Marken klar positionieren und Wiedererkennung schaffen.",
+      "Wir entwickeln visuelle Konzepte, die Marken klar positionieren und nachhaltige Wiedererkennung schaffen.",
     details: [
       { label: "Branding", value: "Visuelle Identität" },
       { label: "Grafikdesign", value: "Digital & Print" },
@@ -128,7 +128,7 @@ const services = [
     icon: "flaticon-mobile-development",
     Image: "service-ecommerce-solutions.png",
     description:
-      "E-Commerce-Lösungen, die verkaufen – von Setup bis Conversion-Optimierung.",
+      "Wir entwickeln E-Commerce-Lösungen, die verkaufen – von der technischen Umsetzung bis zur Conversion-Optimierung.",
     details: [
       { label: "Plattformen", value: "Shopify & Custom" },
       { label: "UX", value: "Conversion-orientiert" },
@@ -143,7 +143,7 @@ const services = [
     icon: "flaticon-seo",
     Image: "service-maintenance-support.png",
     description:
-      "Zuverlässige Betreuung für Websites, Apps und digitale Systeme.",
+      "Wir sorgen für die zuverlässige Betreuung, Wartung und Sicherheit von Websites, Apps und digitalen Systemen.",
     details: [
       { label: "Updates", value: "System & Sicherheit" },
       { label: "Monitoring", value: "Stabilität" },
@@ -188,19 +188,19 @@ function ServiceSection() {
                 Dienstleistungen
               </span>
               <h2 className="title mb-lg-0 wow fadeInUp">
-                Wir bieten digitale <br />
-                Dienstleistungen <span>für Sie</span>
+                Digitale Lösungen, <br />
+                die Ihr Unternehmen <span>voranbringen</span>
               </h2>
             </div>
             <div className="col-lg-5">
               <div className="text">
                 Wir entwickeln digitale Lösungen, die Marken sichtbar machen,
-                Prozesse optimieren und messbares Wachstum erzielen. Von
-                Strategie und Design bis Umsetzung und Betreuung, alles aus
+                Prozesse optimieren und messbares Wachstum ermöglichen. Von
+                Strategie und Design bis zur Umsetzung und Betreuung – alles aus
                 einer Hand.
               </div>
-              <Link href="/page-contact" className="theme-btn btn-style-four">
-                <span className="btn-title">Alle Services</span>
+              <Link href="/page-services" className="theme-btn btn-style-four">
+                <span className="btn-title">Alle Leistungen</span>
                 <span className="dot-box">
                   <span className="dot-item"></span>
                 </span>

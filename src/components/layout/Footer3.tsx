@@ -12,16 +12,17 @@ function Footer3() {
         </div>
 
         <div className="container">
-          <div className="row">
-            <div className="footer-column col-lg-4 col-md-6">
+          <div className="footer-grid">
+            <div className="footer-column">
               <div className="footer-widget about-widget">
                 <div className="logo">
                   <img src="/assets/images/logo-2.png" alt="Company Logo" />
                 </div>
                 <div className="widget-content">
                   <div className="text">
-                    Wir helfen Unternehmen dabei, digital zu wachsen. Mit
-                    Strategie, Design und messbaren Ergebnissen.
+                    Wir helfen Unternehmen dabei, digital zu wachsen – mit
+                    klarer Strategie, starkem Design und messbaren
+                    Ergebnissen.n.
                   </div>
                   <div className="social-widget">
                     <ul className="social-icon-list1">
@@ -61,7 +62,7 @@ function Footer3() {
                           <i className="fab fa-instagram" />
                         </Link>
                       </li>
-                                            <li>
+                      <li>
                         <Link
                           href="https://www.tiktok.com/@axishorizongmbh"
                           target="_blank"
@@ -80,32 +81,7 @@ function Footer3() {
                 </div>
               </div>
             </div>
-            <div className="footer-column col-lg-2 col-md-6">
-              <div className="footer-widget links-widget">
-                <h5 className="widget-title">Schnellzugriffe</h5>
-                <ul className="user-links">
-                  <li>
-                    <Link href="/">Über uns</Link>
-                  </li>
-                  <li>
-                    <Link href="/">Unser Team</Link>
-                  </li>
-                  <li>
-                    <Link href="/">Unser Portfolio</Link>
-                  </li>
-                  {/* <li>
-                    <Link href="/">Careers</Link>
-                  </li> */}
-                  <li>
-                    <Link href="/">Kontakt</Link>
-                  </li>
-                  <li>
-                    <Link href="/">Fallstudien</Link>
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <div className="footer-column col-lg-3 col-md-6">
+            <div className="footer-column">
               <div className="footer-widget links-widget">
                 <h5 className="widget-title">Unsere Leistungen</h5>
                 <ul className="user-links">
@@ -116,7 +92,7 @@ function Footer3() {
                     <Link href="/">UI/UX Design</Link>
                   </li>
                   <li>
-                    <Link href="/">Mobile Anwendungen</Link>
+                    <Link href="/">Mobile App-Entwicklung</Link>
                   </li>
                   <li>
                     <Link href="/">Digitales Marketing</Link>
@@ -130,7 +106,20 @@ function Footer3() {
                 </ul>
               </div>
             </div>
-            <div className="footer-column col-lg-3 col-md-6">
+            <div className="footer-column">
+              <div className="footer-widget links-widget">
+                <h5 className="widget-title">Rechtliches</h5>
+                <ul className="user-links">
+                  <li>
+                    <Link href="/">Impressum</Link>
+                    <Link href="/">Datenschutzerklärung</Link>
+                    <Link href="/">AGB</Link>
+                    <Link href="/">Cookie-Einstellungen</Link>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div className="footer-column">
               <div className="footer-widget links-widget">
                 <h5 className="widget-title">Kontakt</h5>
                 <div className="widget-content">

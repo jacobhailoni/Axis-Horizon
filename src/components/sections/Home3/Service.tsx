@@ -16,45 +16,49 @@ const Service: React.FC<ServiceProps> = ({ className }) => {
     }),
   };
 
-const services = [
-  {
-    title: "Webentwicklung",
-    category: "Moderne & skalierbare Websites",
-    icon: "theme-icon16.png",
-    delay: 0.2,
-  },
-  {
-    title: "Digitales Marketing",
-    category: "Performance & Wachstum",
-    icon: "theme-icon17.png",
-    delay: 0.4,
-  },
-  {
-    title: "Entwicklung mobiler Apps",
-    category: "iOS & Android Lösungen",
-    icon: "theme-icon18.png",
-    delay: 0.6,
-  },
-  {
-    title: "Social Media Management",
-    category: "Content & Community",
-    icon: "theme-icon16.png",
-    delay: 0.6,
-  },
-  {
-    title: "Kreatives Design",
-    category: "Branding & visuelle Identität",
-    icon: "theme-icon17.png",
-    delay: 0.6,
-  },
-  {
-    title: "Online-Shop Lösungen",
-    category: "E-Commerce & Conversion",
-    icon: "theme-icon18.png",
-    delay: 0.6,
-  },
-];
-
+  const services = [
+    {
+      title: "Webentwicklung",
+      category: "Moderne & skalierbare Websites",
+      icon: "theme-icon16.png",
+      delay: 0.2,
+      description:
+        "Wir entwickeln performante, skalierbare Websites, die nicht nur gut aussehen, sondern Besucher gezielt in Kunden verwandeln – technisch sauber, schnell und zukunftssicher.",
+    },
+    {
+      title: "Digitales Marketing",
+      category: "Performance & Wachstum",
+      icon: "theme-icon17.png",
+      delay: 0.4,
+      description: "Datengetriebenes Marketing für messbare Ergebnisse. Wir steigern Reichweite, Leads und Umsatz durch klare Strategien, gezielte Kampagnen und kontinuierliche Optimierung."
+    },
+    {
+      title: "Entwicklung mobiler Apps",
+      category: "iOS & Android Lösungen",
+      icon: "theme-icon18.png",
+      delay: 0.6,
+      description:"Maßgeschneiderte Mobile Apps für iOS und Android – intuitiv, leistungsstark und perfekt auf Ihre Geschäftsziele abgestimmt."
+    },
+    {
+      title: "Social Media Management",
+      category: "Content & Community",
+      icon: "theme-icon16.png",
+      delay: 0.6,
+      description: "Wir entwickeln strategischen Social-Media-Content, bauen aktive Communities auf und sorgen für echte Interaktion – markengerecht, konsistent und messbar."
+    },
+    {
+      title: "Kreatives Design",
+      category: "Branding & visuelle Identität",
+      icon: "theme-icon17.png",
+      delay: 0.6,
+      description: "Wir gestalten starke Markenauftritte mit Wiedererkennungswert – von Logo und Corporate Design bis hin zu modernen Visuals, die überzeugen."  },
+    {
+      title: "Online-Shop Lösungen",
+      category: "E-Commerce & Conversion",
+      icon: "theme-icon18.png",
+      delay: 0.6,
+      description: "Wir entwickeln performante Online-Shops, die Nutzer überzeugen und Verkäufe steigern – optimiert für Conversion, Skalierung und Wachstum."    },
+  ];
 
   return (
     <section className={`services-section-four ${className || ""}`}>
@@ -89,10 +93,9 @@ const services = [
                       />
                     </div>
                     <div className="text">
-                      Proin efficitur, mauris vel condimentum pulvinar, velit
-                      orci consectetur
+                      {item.description}
                     </div>
-                    <Link className="btn-link" href="/page-service-details">
+                    <Link className="btn-link" href="#">
                       <i className="icon fa-solid fa-arrow-down-right"></i>
                     </Link>
                   </div>

@@ -10,7 +10,7 @@ const ContactPage = () => {
               <div className="sec-title">
                 <span className="sub-title"> Senden Sie uns eine E-Mail</span>
 
-                <h2>Feel free to write</h2>
+                <h2>Schreiben Sie gerne</h2>
               </div>
               <form
                 id="contact_form"
@@ -110,7 +110,7 @@ const ContactPage = () => {
                       <span className="fal fa-phone-plus"></span>
                     </div>
                     <div className="text ms-3">
-                      <h4>Haben Sie Fragen?</h4>
+                      <h4>Haben sie Fragen?</h4>
                       <a href="tel:+4915212384897">
                         <span>Free</span> +49 152 12384897
                       </a>

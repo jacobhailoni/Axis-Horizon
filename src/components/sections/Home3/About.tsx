@@ -27,20 +27,20 @@ function About() {
                 Wer wir sind
               </span>
               <h2 className="title">
-                Wir sind eine leistungsorientierte Marketingagentur, die Marken
-                dabei{" "}
+                Wir sind eine performance-orientierte Marketingagentur,{" "}
                 <span className="color1">
-                  hilft, mit klarer Strategie und messbaren Ergebnissen zu
-                  wachsen.
+                  die Marken mit klarer Strategie und messbaren Ergebnissen
+                  wachsen lässt.
                 </span>
               </h2>
               <div className="text">
                 Wir verbinden kreatives Denken mit datenbasierter Umsetzung, um
-                Marketinglösungen zu schaffen, die Kunden gewinnen, konvertieren
-                und skalieren. Wir folgen keinen Trends. Wir konzentrieren uns
-                auf das, was funktioniert — Strategie, Umsetzung und
-                Optimierung. Wir arbeiten mit Unternehmen, die echtes Wachstum
-                wollen, nicht nur Zahlen ohne Wirkung.
+                Marketinglösungen zu entwickeln, die Kunden gewinnen,
+                konvertieren und skalieren. Statt Trends hinterherzulaufen,
+                fokussieren wir uns auf das, was nachweislich funktioniert:
+                Strategie, Umsetzung und kontinuierliche Optimierung. Wir
+                arbeiten mit Unternehmen, die echtes Wachstum anstreben – nicht
+                bloß Zahlen ohne Wirkun
               </div>
             </div>
             <div className="bottom-border"></div>
@@ -97,8 +97,8 @@ function About() {
                     <div className="content-box">
                       <h5 className="title">Auf Wachstum ausgerichtet</h5>
                       <p className="text">
-                        Wir schaffen stabile Marketingstrukturen, die mit Ihrem
-                        Unternehmen wachsen.{" "}
+                        Wir schaffen skalierbare Marketingstrukturen, die mit
+                        Ihrem Unternehmen nachhaltig wachsen.{" "}
                       </p>
                     </div>
                   </div>
@@ -164,8 +164,8 @@ function About() {
                     <div className="content-box">
                       <h5 className="title">Strategisches Denken</h5>
                       <p className="text">
-                        Jede Kampagne beginnt mit Analyse, Positionierung und
-                        klaren Zielen.{" "}
+                        Jede Kampagne beginnt mit fundierter Analyse, klarer
+                        Positionierung und messbaren Zielen.{" "}
                       </p>
                     </div>
                   </div>
@@ -191,7 +191,7 @@ function About() {
                     <div className="content-box">
                       <h5 className="title">Kostenbewusste Ergebnisse</h5>
                       <p className="text">
-                        Effiziente Budgets. Klare KPIs. Messbarer Erfolg.
+                        Effiziente Budgets. Klare KPIs. Messbare Ergebnisse.
                       </p>
                     </div>
                   </div>

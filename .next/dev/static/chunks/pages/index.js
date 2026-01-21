@@ -1,5 +1,5 @@
 __turbopack_load_page_chunks__("/", [
-  "static/chunks/node_modules_aos_dist_aos_7793a82d.js",
+  "static/chunks/node_modules_aos_dist_aos_585e6b84.js",
   "static/chunks/[root-of-the-server]__64c8420d._.js",
   "static/chunks/node_modules_next_dist_compiled_8ca6b690._.js",
   "static/chunks/node_modules_next_dist_shared_lib_1e3a4f5d._.js",
@@ -13,8 +13,11 @@ __turbopack_load_page_chunks__("/", [
   "static/chunks/node_modules_motion-dom_dist_es_01ad550f._.js",
   "static/chunks/node_modules_framer-motion_dist_es_c152664b._.js",
   "static/chunks/node_modules_swiper_82088680._.js",
-  "static/chunks/node_modules_8b9d0589._.js",
-  "static/chunks/node_modules_swiper_1e173c3d._.css",
+  "static/chunks/node_modules_date-fns_afbd9370._.js",
+  "static/chunks/node_modules_@floating-ui_react_dist_ca3caa08._.js",
+  "static/chunks/node_modules_react-datepicker_dist_index_es_0a0b086b.js",
+  "static/chunks/node_modules_cd587526._.js",
+  "static/chunks/node_modules_faf12524._.css",
   "static/chunks/src_pages_index_2da965e7._.js",
-  "static/chunks/turbopack-src_pages_index_60345277._.js"
+  "static/chunks/turbopack-src_pages_index_05f20600._.js"
 ])

@@ -44,7 +44,9 @@ const Header3: React.FC<HeaderProps> = ({
                     <div className="info-call">
                       <i className="icon fa-solid fa-phone"></i>
                       <div className="inner">
-                        <span>Haben Sie Fragen</span> +49 1521 2384897
+                        <Link href="tel:+4915212384897" className="text-white">
+                        <span>Haben sie Fragen?</span> +49 1521 2384897
+                        </Link>
                       </div>
                     </div>
 
@@ -52,7 +54,7 @@ const Header3: React.FC<HeaderProps> = ({
                       href="/page-contact"
                       className="theme-btn btn-style-four"
                     >
-                      <span className="btn-title">Lass uns reden</span>
+                      <span className="btn-title">Kontaktieren sie uns</span>
                       <span className="dot-box">
                         <span className="dot-item"></span>
                       </span>

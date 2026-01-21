@@ -31,7 +31,7 @@ const MobileMenu: React.FC = () => {
   return (
     <ul className="navigation">
       <li>
-        <Link href="/">Heim</Link>
+        <Link href="/">Startseite</Link>
         {/* <ul className={isActive.key === "home" ? "sub-menu d-block" : "d-none"}>
           <li><Link href="/">Home Page 1</Link></li>
           <li><Link href="/index-2">Home Page 2</Link></li>

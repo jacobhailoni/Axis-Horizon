@@ -5,7 +5,7 @@ const NavLinks = () => {
     return (
 
     <ul className="navigation">
-        <li><Link href="/">Heim</Link>
+        <li><Link href="/">Startseite</Link>
             {/* <ul>
             <li><Link href="/">Home page 01</Link></li>
             <li><Link href="/index-2">Home page 02</Link></li>

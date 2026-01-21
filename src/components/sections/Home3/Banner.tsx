@@ -34,17 +34,17 @@ function Banner() {
                     </h1>
                     <div className="text-box">
                       <div className="text">
-                        Steigern Sie Ihre Online-Präsenz mit strategischem
-                        Marketing, professionellem Webdesign und durchdachter
-                        Markenentwicklung. Wir kombinieren Kreativität mit
-                        datenbasierten Strategien, um Ihr Geschäft auf die
-                        nächste Stufe zu heben.
+                        Steigern Sie Ihre digitale Sichtbarkeit mit
+                        strategischem Marketing, modernem Webdesign und einer
+                        klaren Markenstrategie. Wir verbinden kreative Ideen mit
+                        datenbasierten Lösungen, um nachhaltiges Wachstum für
+                        Ihr Unternehmen zu erzielen.
                       </div>
                       <Link
-                        href="/page-about"
+                        href="/page-contact"
                         className="theme-btn btn-style-four"
                       >
-                        <span className="btn-title">PROJEKT STARTEN</span>
+                        <span className="btn-title">JETZT ANFRAGEN</span>
                         <span className="dot-box">
                           <span className="dot-item"></span>
                         </span>

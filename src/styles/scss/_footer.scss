@@ -755,6 +755,20 @@
 	.user-links li{
 		color: var(--theme-color-white);
 	}
+	.footer-grid{
+		display: grid;
+		gap: 30px;
+		grid-template-columns: 1fr;
+		@include media-breakpoint-up(md){
+			grid-template-columns: repeat(2, 1fr);
+		}
+		@include media-breakpoint-up(lg){
+			grid-template-columns: 2fr 1fr 1fr 1fr;
+		}
+	}
+	.footer-column{
+		min-width: 0;
+	}
 	.contact-info-box{
 		display: flex;
 		gap: 20px;
