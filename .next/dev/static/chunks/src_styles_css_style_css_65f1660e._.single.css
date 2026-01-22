@@ -22117,7 +22117,7 @@ table.tbl-shopping-cart > thead > tr > th, table.tbl-shopping-cart > tbody > tr 
 
 .help-contact a {
   color: var(--theme-color-gray);
-  font-size: 30px;
+  font-size: 24px;
   font-weight: 600;
   transition: all .5s;
 }

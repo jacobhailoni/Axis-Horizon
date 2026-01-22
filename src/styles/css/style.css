@@ -22433,7 +22433,7 @@ Page Title
   opacity: 0.7;
 }
 .help-contact a {
-  font-size: 30px;
+  font-size: 24px;
   color: var(--theme-color-gray);
   font-weight: 600;
   -webkit-transition: all 500ms ease;

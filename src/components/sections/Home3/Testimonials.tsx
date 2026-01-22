@@ -64,8 +64,10 @@ function Testimonials() {
                 <div className="col-xxl-6 col-xl-7 col-lg-8">
                   <span className="sub-title">KUNDENFEEDBACK</span>
                   <h2 className="title">
-                    Erfahren Sie, was unsere Kunden 
-                    <span className="color1">über die Zusammenarbeit mit uns sagen.</span>
+                    Erfahren Sie, was unsere Kunden{" "}
+                    <span className="color1">
+                      über die Zusammenarbeit mit uns sagen.
+                    </span>
                   </h2>
                 </div>
                 <div className="col-xxl-4 col-xl-5 col-lg-4 offset-xxl-2">
@@ -96,18 +98,15 @@ function Testimonials() {
                         </div>
                       </div>
                       <p className="text">
-                        Wir können das Team dort gar nicht genug loben. Sie
-                        haben unsere Vision aufgegriffen und in eine
-                        atemberaubende Website umgesetzt, die unsere Vision
-                        perfekt einfängt.
+                        „Die Zusammenarbeit war von Anfang an professionell
+                        und zielgerichtet. Unsere Online-Sichtbarkeit hat sich
+                        innerhalb weniger Wochen deutlich verbessert. Klare
+                        Empfehlung!“
                       </p>
                       <div className="info-box">
-                        <div className="user-thumb">
-                          
-                        </div>
+                        <div className="user-thumb"></div>
                         <div className="user-info">
-                          <h4 className="name">Tina Brown</h4>
-                          <span className="designation">DESIGNER</span>
+                          <h4 className="name">Anna Müller</h4>
                         </div>
                       </div>
                     </div>
@@ -127,18 +126,15 @@ function Testimonials() {
                         </div>
                       </div>
                       <p className="text">
-                        Sie haben unsere Vision aufgegriffen und in eine
-                        atemberaubende Website umgesetzt, die unsere Vision
-                        perfekt einfängt. Der Prozess war nahtlos, und sie
-                        hielten uns informiert.
+                        „Endlich ein Marketing-Partner, der unsere Marke
+                        wirklich verstanden hat. Kreativ, zuverlässig und
+                        messbare Ergebnisse – genau das, was wir gesucht
+                        haben.“
                       </p>
                       <div className="info-box">
-                        <div className="user-thumb">
-                          
-                        </div>
+                        <div className="user-thumb"></div>
                         <div className="user-info">
-                          <h4 className="name">Theresa Webb</h4>
-                          <span className="designation">DESIGNER</span>
+                          <h4 className="name">Markus Schneider</h4>
                         </div>
                       </div>
                     </div>
@@ -158,18 +154,14 @@ function Testimonials() {
                         </div>
                       </div>
                       <p className="text">
-                        Ich kann nicht genug gute Dinge über das Team bei Axis
-                        Horizon sagen. Sie haben unsere Vision aufgegriffen und
-                        in eine atemberaubende Website umgesetzt, die unsere
-                        Vision perfekt einfängt.
+                        „Dank der strategischen Beratung und der starken
+                        Umsetzung konnten wir deutlich mehr Kunden gewinnen.
+                        Sehr kompetentes Team mit frischen Ideen.“
                       </p>
                       <div className="info-box">
-                        <div className="user-thumb">
-                          
-                        </div>
+                        <div className="user-thumb"></div>
                         <div className="user-info">
-                          <h4 className="name">Ralph Edwards</h4>
-                          <span className="designation">DESIGNER</span>
+                          <h4 className="name">Laura Becker</h4>
                         </div>
                       </div>
                     </div>
@@ -189,18 +181,14 @@ function Testimonials() {
                         </div>
                       </div>
                       <p className="text">
-                        Wir können nicht genug gute Dinge über das Team bei Axis
-                        Horizon sagen. Sie haben unsere Vision aufgegriffen und
-                        in eine atemberaubende Website umgesetzt, die unsere
-                        Vision perfekt einfängt.
+                        „Top Service und schnelle Kommunikation. Unsere
+                        Kampagnen performen besser als je zuvor. Man merkt,
+                        dass hier echte Marketing-Profis am Werk sind.“
                       </p>
                       <div className="info-box">
-                        <div className="user-thumb">
-                          
-                        </div>
+                        <div className="user-thumb"></div>
                         <div className="user-info">
-                          <h4 className="name">Wade Warren</h4>
-                          <span className="designation">DESIGNER</span>
+                          <h4 className="name">Daniel Weber</h4>
                         </div>
                       </div>
                     </div>
@@ -220,18 +208,14 @@ function Testimonials() {
                         </div>
                       </div>
                       <p className="text">
-                        Sie haben unsere Vision aufgegriffen und in eine
-                        atemberaubende Website umgesetzt, die unsere Vision
-                        perfekt einfängt. Der Prozess war reibungslos, und sie
-                        hielten uns stets informiert.
+                        „Modernes Marketing, klare Prozesse und transparente
+                        Ergebnisse. Die Zusammenarbeit hat unser Unternehmen
+                        auf das nächste Level gebracht.“
                       </p>
                       <div className="info-box">
-                        <div className="user-thumb">
-                          
-                        </div>
+                        <div className="user-thumb"></div>
                         <div className="user-info">
-                          <h4 className="name">Wade Warren</h4>
-                          <span className="designation">DESIGNER</span>
+                          <h4 className="name">Sophie Krüger</h4>
                         </div>
                       </div>
                     </div>
@@ -245,4 +229,5 @@ function Testimonials() {
     </>
   );
 }
+
 export default Testimonials;

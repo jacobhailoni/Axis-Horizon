@@ -2,8 +2,11 @@ self.__BUILD_MANIFEST = {
   "/": [
     "static/chunks/pages/index.js"
   ],
-  "/page-contact": [
-    "static/chunks/pages/page-contact.js"
+  "/[slug]": [
+    "static/chunks/pages/[slug].js"
+  ],
+  "/_error": [
+    "static/chunks/pages/_error.js"
   ],
   "__rewrites": {
     "afterFiles": [],
@@ -38,6 +41,7 @@ self.__BUILD_MANIFEST = {
     "/shop-checkout",
     "/shop-product-details",
     "/shop-products",
-    "/shop-products-sidebar"
+    "/shop-products-sidebar",
+    "/[slug]"
   ]
 };self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()

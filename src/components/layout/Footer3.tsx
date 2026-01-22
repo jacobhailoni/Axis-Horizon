@@ -111,16 +111,16 @@ function Footer3() {
                 <h5 className="widget-title">Rechtliches</h5>
                 <ul className="user-links">
                   <li>
-                    <Link href="/">Impressum</Link>
+                    <Link href="/impressum">Impressum</Link>
                   </li>
                   <li>
-                    <Link href="/">Datenschutzerklärung</Link>
+                    <Link href="/datenschutzerklaerung">Datenschutzerklärung</Link>
                   </li>
                   <li>
-                    <Link href="/">AGB</Link>
+                    <Link href="/agb">AGB</Link>
                   </li>
                   <li>
-                    <Link href="/">Cookie-Einstellungen</Link>
+                    <Link href="/cookie-einstellungen">Cookie-Einstellungen</Link>
                   </li>
                 </ul>
               </div>

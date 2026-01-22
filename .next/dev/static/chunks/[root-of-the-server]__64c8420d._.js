@@ -489,12 +489,12 @@ function Footer() {
                                 alt: "Shape Icon"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                lineNumber: 11,
+                                lineNumber: 10,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/components/layout/Footer.tsx",
-                            lineNumber: 10,
+                            lineNumber: 9,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -504,18 +504,18 @@ function Footer() {
                                 alt: "Shape Icon"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                lineNumber: 14,
+                                lineNumber: 13,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/components/layout/Footer.tsx",
-                            lineNumber: 13,
+                            lineNumber: 12,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/components/layout/Footer.tsx",
-                    lineNumber: 9,
+                    lineNumber: 8,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -532,10 +532,10 @@ function Footer() {
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                                                 className: "title",
-                                                children: "Let’s Talk"
+                                                children: "Lass uns reden"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                                lineNumber: 22,
+                                                lineNumber: 21,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -544,19 +544,19 @@ function Footer() {
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                         className: "text",
                                                         children: [
-                                                            "Lorem ipsum dolor sit amet, consectetuer adipiscing ",
+                                                            "Wir helfen Unternehmen dabei, digital zu wachsen – mit klarer",
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {
                                                                 className: "d-none d-xl-block"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                lineNumber: 25,
-                                                                columnNumber: 75
+                                                                lineNumber: 26,
+                                                                columnNumber: 23
                                                             }, this),
-                                                            "elit sed diam nonummy."
+                                                            "Strategie, starkem Design und messbaren Ergebnissen.n."
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/layout/Footer.tsx",
-                                                        lineNumber: 24,
+                                                        lineNumber: 23,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -566,40 +566,19 @@ function Footer() {
                                                             children: [
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
-                                                                        href: "/",
-                                                                        "aria-label": "Twitter",
+                                                                        href: "https://www.linkedin.com/company/axis-horizon",
+                                                                        "aria-label": "LinkedIn",
                                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                                            className: "fab fa-twitter"
+                                                                            className: "fab fa-linkedin-in"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                            lineNumber: 30,
-                                                                            columnNumber: 65
+                                                                            lineNumber: 33,
+                                                                            columnNumber: 29
                                                                         }, this)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                        lineNumber: 30,
-                                                                        columnNumber: 29
-                                                                    }, this)
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                    lineNumber: 30,
-                                                                    columnNumber: 25
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
-                                                                        href: "/",
-                                                                        "aria-label": "Facebook",
-                                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                                            className: "fab fa-facebook-f"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                            lineNumber: 31,
-                                                                            columnNumber: 66
-                                                                        }, this)
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                        lineNumber: 31,
-                                                                        columnNumber: 29
+                                                                        lineNumber: 32,
+                                                                        columnNumber: 27
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/layout/Footer.tsx",
@@ -608,72 +587,93 @@ function Footer() {
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
-                                                                        href: "/",
-                                                                        "aria-label": "Pinterest",
+                                                                        href: "https://www.facebook.com/646493791872312?ref=_xav_ig_profile_page_web",
+                                                                        "aria-label": "Facebook",
                                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                                            className: "fab fa-pinterest-p"
+                                                                            className: "fab fa-facebook-f"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                            lineNumber: 32,
-                                                                            columnNumber: 67
+                                                                            lineNumber: 38,
+                                                                            columnNumber: 29
                                                                         }, this)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                        lineNumber: 32,
-                                                                        columnNumber: 29
+                                                                        lineNumber: 37,
+                                                                        columnNumber: 27
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                    lineNumber: 32,
+                                                                    lineNumber: 36,
                                                                     columnNumber: 25
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
-                                                                        href: "/",
+                                                                        href: "https://www.tiktok.com/@axishorizongmbh",
+                                                                        "aria-label": "TikTok",
+                                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
+                                                                            className: "fab fa-tiktok"
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/layout/Footer.tsx",
+                                                                            lineNumber: 43,
+                                                                            columnNumber: 29
+                                                                        }, this)
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/src/components/layout/Footer.tsx",
+                                                                        lineNumber: 42,
+                                                                        columnNumber: 27
+                                                                    }, this)
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/src/components/layout/Footer.tsx",
+                                                                    lineNumber: 41,
+                                                                    columnNumber: 25
+                                                                }, this),
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
+                                                                        href: "https://www.instagram.com/axishorizonglobal/",
                                                                         "aria-label": "Instagram",
                                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                             className: "fab fa-instagram"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                            lineNumber: 33,
-                                                                            columnNumber: 67
+                                                                            lineNumber: 48,
+                                                                            columnNumber: 29
                                                                         }, this)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                        lineNumber: 33,
-                                                                        columnNumber: 29
+                                                                        lineNumber: 47,
+                                                                        columnNumber: 27
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                    lineNumber: 33,
+                                                                    lineNumber: 46,
                                                                     columnNumber: 25
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/components/layout/Footer.tsx",
-                                                            lineNumber: 29,
+                                                            lineNumber: 30,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/layout/Footer.tsx",
-                                                        lineNumber: 28,
+                                                        lineNumber: 29,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                                lineNumber: 23,
+                                                lineNumber: 22,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/layout/Footer.tsx",
-                                        lineNumber: 21,
+                                        lineNumber: 20,
                                         columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/layout/Footer.tsx",
-                                    lineNumber: 20,
+                                    lineNumber: 19,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -687,7 +687,7 @@ function Footer() {
                                                 children: "Quick Link"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                                lineNumber: 41,
+                                                lineNumber: 61,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -701,12 +701,12 @@ function Footer() {
                                                                 children: "About Us"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                lineNumber: 44,
-                                                                columnNumber: 27
+                                                                lineNumber: 65,
+                                                                columnNumber: 25
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/layout/Footer.tsx",
-                                                            lineNumber: 44,
+                                                            lineNumber: 64,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -715,12 +715,12 @@ function Footer() {
                                                                 children: "Our Team"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                lineNumber: 45,
-                                                                columnNumber: 27
+                                                                lineNumber: 68,
+                                                                columnNumber: 25
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/layout/Footer.tsx",
-                                                            lineNumber: 45,
+                                                            lineNumber: 67,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -729,12 +729,12 @@ function Footer() {
                                                                 children: "Our Portfolio"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                lineNumber: 46,
-                                                                columnNumber: 27
+                                                                lineNumber: 71,
+                                                                columnNumber: 25
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/layout/Footer.tsx",
-                                                            lineNumber: 46,
+                                                            lineNumber: 70,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -743,12 +743,12 @@ function Footer() {
                                                                 children: "Careers"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                lineNumber: 47,
-                                                                columnNumber: 27
+                                                                lineNumber: 74,
+                                                                columnNumber: 25
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/layout/Footer.tsx",
-                                                            lineNumber: 47,
+                                                            lineNumber: 73,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -757,34 +757,34 @@ function Footer() {
                                                                 children: "Contact Us"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                lineNumber: 48,
-                                                                columnNumber: 27
+                                                                lineNumber: 77,
+                                                                columnNumber: 25
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/layout/Footer.tsx",
-                                                            lineNumber: 48,
+                                                            lineNumber: 76,
                                                             columnNumber: 23
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/components/layout/Footer.tsx",
-                                                    lineNumber: 43,
+                                                    lineNumber: 63,
                                                     columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                                lineNumber: 42,
+                                                lineNumber: 62,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/layout/Footer.tsx",
-                                        lineNumber: 40,
+                                        lineNumber: 57,
                                         columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/layout/Footer.tsx",
-                                    lineNumber: 39,
+                                    lineNumber: 56,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -795,10 +795,10 @@ function Footer() {
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
                                                 className: "text",
-                                                children: "Get the latest inspiration & insights"
+                                                children: "Lassen Sie sich inspirieren und gewinnen Sie neue Einblicke."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                                lineNumber: 55,
+                                                lineNumber: 88,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -818,7 +818,7 @@ function Footer() {
                                                                 children: "Email Address"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                lineNumber: 59,
+                                                                lineNumber: 97,
                                                                 columnNumber: 25
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -826,11 +826,11 @@ function Footer() {
                                                                 id: "emailaddress",
                                                                 name: "emailaddress",
                                                                 className: "email",
-                                                                placeholder: "Email Address",
+                                                                placeholder: "E-Mail-Adresse",
                                                                 required: true
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                lineNumber: 60,
+                                                                lineNumber: 100,
                                                                 columnNumber: 25
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -841,28 +841,28 @@ function Footer() {
                                                                     className: "icon flaticon-paper-plane"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                    lineNumber: 69,
+                                                                    lineNumber: 113,
                                                                     columnNumber: 27
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                lineNumber: 68,
+                                                                lineNumber: 108,
                                                                 columnNumber: 25
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/layout/Footer.tsx",
-                                                        lineNumber: 58,
+                                                        lineNumber: 93,
                                                         columnNumber: 23
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/layout/Footer.tsx",
-                                                    lineNumber: 57,
+                                                    lineNumber: 92,
                                                     columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                                lineNumber: 56,
+                                                lineNumber: 91,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -874,10 +874,10 @@ function Footer() {
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
                                                                 className: "widget-title",
-                                                                children: "Address"
+                                                                children: "Adresse"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                lineNumber: 76,
+                                                                lineNumber: 123,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -885,30 +885,31 @@ function Footer() {
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                     className: "text",
                                                                     children: [
-                                                                        "4140 Parker Rd. Allentown, ",
+                                                                        "Vulkanstraße 12 C,",
+                                                                        " ",
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {
                                                                             className: "d-none d-lg-block"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                            lineNumber: 79,
-                                                                            columnNumber: 54
+                                                                            lineNumber: 127,
+                                                                            columnNumber: 27
                                                                         }, this),
-                                                                        "New Mexico 31134"
+                                                                        "10365 Berlin"
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                    lineNumber: 78,
+                                                                    lineNumber: 125,
                                                                     columnNumber: 25
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                lineNumber: 77,
+                                                                lineNumber: 124,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/layout/Footer.tsx",
-                                                        lineNumber: 75,
+                                                        lineNumber: 119,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -917,10 +918,10 @@ function Footer() {
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
                                                                 className: "widget-title",
-                                                                children: "Support"
+                                                                children: "Unterstützung"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                lineNumber: 85,
+                                                                lineNumber: 136,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -928,63 +929,64 @@ function Footer() {
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                     className: "text",
                                                                     children: [
-                                                                        "needhelp@company.com ",
+                                                                        "info@axishorizonglobal.de",
+                                                                        " ",
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {
                                                                             className: "d-none d-lg-block"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                            lineNumber: 88,
-                                                                            columnNumber: 48
+                                                                            lineNumber: 140,
+                                                                            columnNumber: 27
                                                                         }, this),
-                                                                        "(+123) 456789 00"
+                                                                        "+49 1521 2384897"
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                    lineNumber: 87,
+                                                                    lineNumber: 138,
                                                                     columnNumber: 25
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                                                lineNumber: 86,
+                                                                lineNumber: 137,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/layout/Footer.tsx",
-                                                        lineNumber: 84,
+                                                        lineNumber: 132,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                                lineNumber: 74,
+                                                lineNumber: 118,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/layout/Footer.tsx",
-                                        lineNumber: 54,
+                                        lineNumber: 84,
                                         columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/layout/Footer.tsx",
-                                    lineNumber: 53,
+                                    lineNumber: 83,
                                     columnNumber: 15
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/layout/Footer.tsx",
-                            lineNumber: 19,
+                            lineNumber: 18,
                             columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/components/layout/Footer.tsx",
-                        lineNumber: 18,
+                        lineNumber: 17,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/components/layout/Footer.tsx",
-                    lineNumber: 17,
+                    lineNumber: 16,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -998,37 +1000,37 @@ function Footer() {
                                 children: [
                                     "© ",
                                     new Date().getFullYear(),
-                                    " All rights reserved by Digitaal.com"
+                                    " Alle Rechte vorbehalten Axishorizon GmbH"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/layout/Footer.tsx",
-                                lineNumber: 102,
+                                lineNumber: 154,
                                 columnNumber: 15
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/components/layout/Footer.tsx",
-                            lineNumber: 101,
+                            lineNumber: 153,
                             columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/components/layout/Footer.tsx",
-                        lineNumber: 100,
+                        lineNumber: 152,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/components/layout/Footer.tsx",
-                    lineNumber: 99,
+                    lineNumber: 151,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/components/layout/Footer.tsx",
-            lineNumber: 8,
+            lineNumber: 7,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/components/layout/Footer.tsx",
-        lineNumber: 7,
+        lineNumber: 6,
         columnNumber: 5
     }, this);
 }
@@ -2126,7 +2128,7 @@ function Footer3() {
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
-                                                            href: "/",
+                                                            href: "/impressum",
                                                             children: "Impressum"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/layout/Footer3.tsx",
@@ -2140,7 +2142,7 @@ function Footer3() {
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
-                                                            href: "/",
+                                                            href: "/datenschutzerklaerung",
                                                             children: "Datenschutzerklärung"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/layout/Footer3.tsx",
@@ -2154,7 +2156,7 @@ function Footer3() {
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
-                                                            href: "/",
+                                                            href: "/agb",
                                                             children: "AGB"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/layout/Footer3.tsx",
@@ -2168,7 +2170,7 @@ function Footer3() {
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
-                                                            href: "/",
+                                                            href: "/cookie-einstellungen",
                                                             children: "Cookie-Einstellungen"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/layout/Footer3.tsx",
@@ -8719,6 +8721,8 @@ const Service = ({ className })=>{
             category: "Moderne & skalierbare Websites",
             icon: "theme-icon16.png",
             delay: 0.2,
+            url: "/web-development",
+            slug: "web-development",
             description: "Wir entwickeln performante, skalierbare Websites, die nicht nur gut aussehen, sondern Besucher gezielt in Kunden verwandeln – technisch sauber, schnell und zukunftssicher."
         },
         {
@@ -8726,6 +8730,8 @@ const Service = ({ className })=>{
             category: "Performance & Wachstum",
             icon: "theme-icon17.png",
             delay: 0.4,
+            url: "/digital-marketing",
+            slug: "digital-marketing",
             description: "Datengetriebenes Marketing für messbare Ergebnisse. Wir steigern Reichweite, Leads und Umsatz durch klare Strategien, gezielte Kampagnen und kontinuierliche Optimierung."
         },
         {
@@ -8733,6 +8739,8 @@ const Service = ({ className })=>{
             category: "iOS & Android Lösungen",
             icon: "theme-icon18.png",
             delay: 0.6,
+            url: "/mobile-app-development",
+            slug: "mobile-app-development",
             description: "Maßgeschneiderte Mobile Apps für iOS und Android – intuitiv, leistungsstark und perfekt auf Ihre Geschäftsziele abgestimmt."
         },
         {
@@ -8740,6 +8748,8 @@ const Service = ({ className })=>{
             category: "Content & Community",
             icon: "theme-icon16.png",
             delay: 0.6,
+            url: "/social-media-management",
+            slug: "social-media-management",
             description: "Wir entwickeln strategischen Social-Media-Content, bauen aktive Communities auf und sorgen für echte Interaktion – markengerecht, konsistent und messbar."
         },
         {
@@ -8747,6 +8757,8 @@ const Service = ({ className })=>{
             category: "Branding & visuelle Identität",
             icon: "theme-icon17.png",
             delay: 0.6,
+            url: "/creative-design",
+            slug: "creative-design",
             description: "Wir gestalten starke Markenauftritte mit Wiedererkennungswert – von Logo und Corporate Design bis hin zu modernen Visuals, die überzeugen."
         },
         {
@@ -8754,6 +8766,8 @@ const Service = ({ className })=>{
             category: "E-Commerce & Conversion",
             icon: "theme-icon18.png",
             delay: 0.6,
+            url: "/ecommerce-solutions",
+            slug: "ecommerce-solutions",
             description: "Wir entwickeln performante Online-Shops, die Nutzer überzeugen und Verkäufe steigern – optimiert für Conversion, Skalierung und Wachstum."
         }
     ];
@@ -8769,19 +8783,19 @@ const Service = ({ className })=>{
                             children: "unsere "
                         }, void 0, false, {
                             fileName: "[project]/src/components/sections/Home3/Service.tsx",
-                            lineNumber: 67,
+                            lineNumber: 87,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         "Leistungen"
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/components/sections/Home3/Service.tsx",
-                    lineNumber: 66,
+                    lineNumber: 86,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/src/components/sections/Home3/Service.tsx",
-                lineNumber: 65,
+                lineNumber: 85,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -8811,12 +8825,12 @@ const Service = ({ className })=>{
                                                     children: item.title
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/sections/Home3/Service.tsx",
-                                                    lineNumber: 85,
+                                                    lineNumber: 105,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/sections/Home3/Service.tsx",
-                                                lineNumber: 84,
+                                                lineNumber: 104,
                                                 columnNumber: 21
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -8824,7 +8838,7 @@ const Service = ({ className })=>{
                                                 children: item.category
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/sections/Home3/Service.tsx",
-                                                lineNumber: 87,
+                                                lineNumber: 107,
                                                 columnNumber: 21
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -8835,12 +8849,12 @@ const Service = ({ className })=>{
                                                     alt: "Icon"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/sections/Home3/Service.tsx",
-                                                    lineNumber: 89,
+                                                    lineNumber: 109,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/sections/Home3/Service.tsx",
-                                                lineNumber: 88,
+                                                lineNumber: 108,
                                                 columnNumber: 21
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -8848,59 +8862,59 @@ const Service = ({ className })=>{
                                                 children: item.description
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/sections/Home3/Service.tsx",
-                                                lineNumber: 95,
+                                                lineNumber: 115,
                                                 columnNumber: 21
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
                                                 className: "btn-link",
-                                                href: "#",
+                                                href: item.url,
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                     className: "icon fa-solid fa-arrow-down-right"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/sections/Home3/Service.tsx",
-                                                    lineNumber: 99,
+                                                    lineNumber: 119,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/sections/Home3/Service.tsx",
-                                                lineNumber: 98,
+                                                lineNumber: 118,
                                                 columnNumber: 21
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/sections/Home3/Service.tsx",
-                                        lineNumber: 83,
+                                        lineNumber: 103,
                                         columnNumber: 19
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/sections/Home3/Service.tsx",
-                                    lineNumber: 75,
+                                    lineNumber: 95,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, index, false, {
                                 fileName: "[project]/src/components/sections/Home3/Service.tsx",
-                                lineNumber: 74,
+                                lineNumber: 94,
                                 columnNumber: 15
                             }, ("TURBOPACK compile-time value", void 0)))
                     }, void 0, false, {
                         fileName: "[project]/src/components/sections/Home3/Service.tsx",
-                        lineNumber: 72,
+                        lineNumber: 92,
                         columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0))
                 }, void 0, false, {
                     fileName: "[project]/src/components/sections/Home3/Service.tsx",
-                    lineNumber: 71,
+                    lineNumber: 91,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/src/components/sections/Home3/Service.tsx",
-                lineNumber: 70,
+                lineNumber: 90,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
     }, void 0, true, {
         fileName: "[project]/src/components/sections/Home3/Service.tsx",
-        lineNumber: 64,
+        lineNumber: 84,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
@@ -9714,6 +9728,7 @@ function Testimonials() {
                                                     className: "title",
                                                     children: [
                                                         "Erfahren Sie, was unsere Kunden",
+                                                        " ",
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                             className: "color1",
                                                             children: "über die Zusammenarbeit mit uns sagen."
@@ -9745,12 +9760,12 @@ function Testimonials() {
                                                             className: "fa-light fa-solid fa-angle-left"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                            lineNumber: 74,
+                                                            lineNumber: 76,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                        lineNumber: 73,
+                                                        lineNumber: 75,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -9759,23 +9774,23 @@ function Testimonials() {
                                                             className: "fa-light fa-solid fa-angle-right"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                            lineNumber: 77,
+                                                            lineNumber: 79,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                        lineNumber: 76,
+                                                        lineNumber: 78,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                lineNumber: 72,
+                                                lineNumber: 74,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                            lineNumber: 71,
+                                            lineNumber: 73,
                                             columnNumber: 17
                                         }, this)
                                     ]
@@ -9810,26 +9825,12 @@ function Testimonials() {
                                                                     children: "5.0"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                    lineNumber: 89,
+                                                                    lineNumber: 91,
                                                                     columnNumber: 25
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                     className: "rating",
                                                                     children: [
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                                            className: "icon fa-solid fa-star"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 91,
-                                                                            columnNumber: 27
-                                                                        }, this),
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                                            className: "icon fa-solid fa-star"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 92,
-                                                                            columnNumber: 27
-                                                                        }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                             className: "icon fa-solid fa-star"
                                                                         }, void 0, false, {
@@ -9850,25 +9851,39 @@ function Testimonials() {
                                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
                                                                             lineNumber: 95,
                                                                             columnNumber: 27
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
+                                                                            className: "icon fa-solid fa-star"
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
+                                                                            lineNumber: 96,
+                                                                            columnNumber: 27
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
+                                                                            className: "icon fa-solid fa-star"
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
+                                                                            lineNumber: 97,
+                                                                            columnNumber: 27
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                    lineNumber: 90,
+                                                                    lineNumber: 92,
                                                                     columnNumber: 25
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                            lineNumber: 88,
+                                                            lineNumber: 90,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                             className: "text",
-                                                            children: "Wir können das Team dort gar nicht genug loben. Sie haben unsere Vision aufgegriffen und in eine atemberaubende Website umgesetzt, die unsere Vision perfekt einfängt."
+                                                            children: "„Die Zusammenarbeit war von Anfang an professionell und zielgerichtet. Unsere Online-Sichtbarkeit hat sich innerhalb weniger Wochen deutlich verbessert. Klare Empfehlung!“"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                            lineNumber: 98,
+                                                            lineNumber: 100,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -9878,30 +9893,20 @@ function Testimonials() {
                                                                     className: "user-thumb"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                    lineNumber: 105,
+                                                                    lineNumber: 107,
                                                                     columnNumber: 25
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                     className: "user-info",
-                                                                    children: [
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                                                                            className: "name",
-                                                                            children: "Tina Brown"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 109,
-                                                                            columnNumber: 27
-                                                                        }, this),
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                            className: "designation",
-                                                                            children: "DESIGNER"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 110,
-                                                                            columnNumber: 27
-                                                                        }, this)
-                                                                    ]
-                                                                }, void 0, true, {
+                                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                                                        className: "name",
+                                                                        children: "Anna Müller"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
+                                                                        lineNumber: 109,
+                                                                        columnNumber: 27
+                                                                    }, this)
+                                                                }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
                                                                     lineNumber: 108,
                                                                     columnNumber: 25
@@ -9909,23 +9914,23 @@ function Testimonials() {
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                            lineNumber: 104,
+                                                            lineNumber: 106,
                                                             columnNumber: 23
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                    lineNumber: 87,
+                                                    lineNumber: 89,
                                                     columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                lineNumber: 86,
+                                                lineNumber: 88,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                            lineNumber: 85,
+                                            lineNumber: 87,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$swiper$2f$swiper$2d$react$2e$mjs__$5b$client$5d$__$28$ecmascript$29$__["SwiperSlide"], {
@@ -9943,12 +9948,19 @@ function Testimonials() {
                                                                     children: "5.0"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                    lineNumber: 120,
+                                                                    lineNumber: 119,
                                                                     columnNumber: 25
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                     className: "rating",
                                                                     children: [
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
+                                                                            className: "icon fa-solid fa-star"
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
+                                                                            lineNumber: 121,
+                                                                            columnNumber: 27
+                                                                        }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                             className: "icon fa-solid fa-star"
                                                                         }, void 0, false, {
@@ -9976,32 +9988,25 @@ function Testimonials() {
                                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
                                                                             lineNumber: 125,
                                                                             columnNumber: 27
-                                                                        }, this),
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                                            className: "icon fa-solid fa-star"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 126,
-                                                                            columnNumber: 27
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                    lineNumber: 121,
+                                                                    lineNumber: 120,
                                                                     columnNumber: 25
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                            lineNumber: 119,
+                                                            lineNumber: 118,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                             className: "text",
-                                                            children: "Sie haben unsere Vision aufgegriffen und in eine atemberaubende Website umgesetzt, die unsere Vision perfekt einfängt. Der Prozess war nahtlos, und sie hielten uns informiert."
+                                                            children: "„Endlich ein Marketing-Partner, der unsere Marke wirklich verstanden hat. Kreativ, zuverlässig und messbare Ergebnisse – genau das, was wir gesucht haben.“"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                            lineNumber: 129,
+                                                            lineNumber: 128,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -10011,54 +10016,44 @@ function Testimonials() {
                                                                     className: "user-thumb"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                    lineNumber: 136,
+                                                                    lineNumber: 135,
                                                                     columnNumber: 25
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                     className: "user-info",
-                                                                    children: [
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                                                                            className: "name",
-                                                                            children: "Theresa Webb"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 140,
-                                                                            columnNumber: 27
-                                                                        }, this),
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                            className: "designation",
-                                                                            children: "DESIGNER"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 141,
-                                                                            columnNumber: 27
-                                                                        }, this)
-                                                                    ]
-                                                                }, void 0, true, {
+                                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                                                        className: "name",
+                                                                        children: "Markus Schneider"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
+                                                                        lineNumber: 137,
+                                                                        columnNumber: 27
+                                                                    }, this)
+                                                                }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                    lineNumber: 139,
+                                                                    lineNumber: 136,
                                                                     columnNumber: 25
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                            lineNumber: 135,
+                                                            lineNumber: 134,
                                                             columnNumber: 23
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                    lineNumber: 118,
+                                                    lineNumber: 117,
                                                     columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                lineNumber: 117,
+                                                lineNumber: 116,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                            lineNumber: 116,
+                                            lineNumber: 115,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$swiper$2f$swiper$2d$react$2e$mjs__$5b$client$5d$__$28$ecmascript$29$__["SwiperSlide"], {
@@ -10076,65 +10071,65 @@ function Testimonials() {
                                                                     children: "5.0"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                    lineNumber: 151,
+                                                                    lineNumber: 147,
                                                                     columnNumber: 25
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                     className: "rating",
                                                                     children: [
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
+                                                                            className: "icon fa-solid fa-star"
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
+                                                                            lineNumber: 149,
+                                                                            columnNumber: 27
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
+                                                                            className: "icon fa-solid fa-star"
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
+                                                                            lineNumber: 150,
+                                                                            columnNumber: 27
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
+                                                                            className: "icon fa-solid fa-star"
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
+                                                                            lineNumber: 151,
+                                                                            columnNumber: 27
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
+                                                                            className: "icon fa-solid fa-star"
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
+                                                                            lineNumber: 152,
+                                                                            columnNumber: 27
+                                                                        }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                             className: "icon fa-solid fa-star"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
                                                                             lineNumber: 153,
                                                                             columnNumber: 27
-                                                                        }, this),
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                                            className: "icon fa-solid fa-star"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 154,
-                                                                            columnNumber: 27
-                                                                        }, this),
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                                            className: "icon fa-solid fa-star"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 155,
-                                                                            columnNumber: 27
-                                                                        }, this),
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                                            className: "icon fa-solid fa-star"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 156,
-                                                                            columnNumber: 27
-                                                                        }, this),
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                                            className: "icon fa-solid fa-star"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 157,
-                                                                            columnNumber: 27
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                    lineNumber: 152,
+                                                                    lineNumber: 148,
                                                                     columnNumber: 25
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                            lineNumber: 150,
+                                                            lineNumber: 146,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                             className: "text",
-                                                            children: "Ich kann nicht genug gute Dinge über das Team bei Axis Horizon sagen. Sie haben unsere Vision aufgegriffen und in eine atemberaubende Website umgesetzt, die unsere Vision perfekt einfängt."
+                                                            children: "„Dank der strategischen Beratung und der starken Umsetzung konnten wir deutlich mehr Kunden gewinnen. Sehr kompetentes Team mit frischen Ideen.“"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                            lineNumber: 160,
+                                                            lineNumber: 156,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -10144,54 +10139,44 @@ function Testimonials() {
                                                                     className: "user-thumb"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                    lineNumber: 167,
+                                                                    lineNumber: 162,
                                                                     columnNumber: 25
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                     className: "user-info",
-                                                                    children: [
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                                                                            className: "name",
-                                                                            children: "Ralph Edwards"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 171,
-                                                                            columnNumber: 27
-                                                                        }, this),
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                            className: "designation",
-                                                                            children: "DESIGNER"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 172,
-                                                                            columnNumber: 27
-                                                                        }, this)
-                                                                    ]
-                                                                }, void 0, true, {
+                                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                                                        className: "name",
+                                                                        children: "Laura Becker"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
+                                                                        lineNumber: 164,
+                                                                        columnNumber: 27
+                                                                    }, this)
+                                                                }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                    lineNumber: 170,
+                                                                    lineNumber: 163,
                                                                     columnNumber: 25
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                            lineNumber: 166,
+                                                            lineNumber: 161,
                                                             columnNumber: 23
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                    lineNumber: 149,
+                                                    lineNumber: 145,
                                                     columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                lineNumber: 148,
+                                                lineNumber: 144,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                            lineNumber: 147,
+                                            lineNumber: 143,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$swiper$2f$swiper$2d$react$2e$mjs__$5b$client$5d$__$28$ecmascript$29$__["SwiperSlide"], {
@@ -10209,7 +10194,7 @@ function Testimonials() {
                                                                     children: "5.0"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                    lineNumber: 182,
+                                                                    lineNumber: 174,
                                                                     columnNumber: 25
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -10219,55 +10204,55 @@ function Testimonials() {
                                                                             className: "icon fa-solid fa-star"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 184,
+                                                                            lineNumber: 176,
                                                                             columnNumber: 27
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                             className: "icon fa-solid fa-star"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 185,
+                                                                            lineNumber: 177,
                                                                             columnNumber: 27
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                             className: "icon fa-solid fa-star"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 186,
+                                                                            lineNumber: 178,
                                                                             columnNumber: 27
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                             className: "icon fa-solid fa-star"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 187,
+                                                                            lineNumber: 179,
                                                                             columnNumber: 27
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                             className: "icon fa-solid fa-star"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 188,
+                                                                            lineNumber: 180,
                                                                             columnNumber: 27
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                    lineNumber: 183,
+                                                                    lineNumber: 175,
                                                                     columnNumber: 25
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                            lineNumber: 181,
+                                                            lineNumber: 173,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                             className: "text",
-                                                            children: "Wir können nicht genug gute Dinge über das Team bei Axis Horizon sagen. Sie haben unsere Vision aufgegriffen und in eine atemberaubende Website umgesetzt, die unsere Vision perfekt einfängt."
+                                                            children: "„Top Service und schnelle Kommunikation. Unsere Kampagnen performen besser als je zuvor. Man merkt, dass hier echte Marketing-Profis am Werk sind.“"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                            lineNumber: 191,
+                                                            lineNumber: 183,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -10277,130 +10262,120 @@ function Testimonials() {
                                                                     className: "user-thumb"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                    lineNumber: 198,
+                                                                    lineNumber: 189,
                                                                     columnNumber: 25
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                     className: "user-info",
+                                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                                                        className: "name",
+                                                                        children: "Daniel Weber"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
+                                                                        lineNumber: 191,
+                                                                        columnNumber: 27
+                                                                    }, this)
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
+                                                                    lineNumber: 190,
+                                                                    columnNumber: 25
+                                                                }, this)
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
+                                                            lineNumber: 188,
+                                                            columnNumber: 23
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
+                                                    lineNumber: 172,
+                                                    columnNumber: 21
+                                                }, this)
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
+                                                lineNumber: 171,
+                                                columnNumber: 19
+                                            }, this)
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
+                                            lineNumber: 170,
+                                            columnNumber: 17
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$swiper$2f$swiper$2d$react$2e$mjs__$5b$client$5d$__$28$ecmascript$29$__["SwiperSlide"], {
+                                            className: "swiper-slide",
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "testimonial-block-three",
+                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "inner-box",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                            className: "review",
+                                                            children: [
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                    className: "title",
+                                                                    children: "5.0"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
+                                                                    lineNumber: 201,
+                                                                    columnNumber: 25
+                                                                }, this),
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                    className: "rating",
                                                                     children: [
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                                                                            className: "name",
-                                                                            children: "Wade Warren"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 202,
-                                                                            columnNumber: 27
-                                                                        }, this),
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                            className: "designation",
-                                                                            children: "DESIGNER"
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
+                                                                            className: "icon fa-solid fa-star"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
                                                                             lineNumber: 203,
                                                                             columnNumber: 27
-                                                                        }, this)
-                                                                    ]
-                                                                }, void 0, true, {
-                                                                    fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                    lineNumber: 201,
-                                                                    columnNumber: 25
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                            lineNumber: 197,
-                                                            columnNumber: 23
-                                                        }, this)
-                                                    ]
-                                                }, void 0, true, {
-                                                    fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                    lineNumber: 180,
-                                                    columnNumber: 21
-                                                }, this)
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                lineNumber: 179,
-                                                columnNumber: 19
-                                            }, this)
-                                        }, void 0, false, {
-                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                            lineNumber: 178,
-                                            columnNumber: 17
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$swiper$2f$swiper$2d$react$2e$mjs__$5b$client$5d$__$28$ecmascript$29$__["SwiperSlide"], {
-                                            className: "swiper-slide",
-                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "testimonial-block-three",
-                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "inner-box",
-                                                    children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                            className: "review",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                    className: "title",
-                                                                    children: "5.0"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                    lineNumber: 213,
-                                                                    columnNumber: 25
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                    className: "rating",
-                                                                    children: [
+                                                                        }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                             className: "icon fa-solid fa-star"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 215,
+                                                                            lineNumber: 204,
                                                                             columnNumber: 27
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                             className: "icon fa-solid fa-star"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 216,
+                                                                            lineNumber: 205,
                                                                             columnNumber: 27
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                             className: "icon fa-solid fa-star"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 217,
+                                                                            lineNumber: 206,
                                                                             columnNumber: 27
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                                             className: "icon fa-solid fa-star"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 218,
-                                                                            columnNumber: 27
-                                                                        }, this),
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                                            className: "icon fa-solid fa-star"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 219,
+                                                                            lineNumber: 207,
                                                                             columnNumber: 27
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                    lineNumber: 214,
+                                                                    lineNumber: 202,
                                                                     columnNumber: 25
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                            lineNumber: 212,
+                                                            lineNumber: 200,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                             className: "text",
-                                                            children: "Sie haben unsere Vision aufgegriffen und in eine atemberaubende Website umgesetzt, die unsere Vision perfekt einfängt. Der Prozess war reibungslos, und sie hielten uns stets informiert."
+                                                            children: "„Modernes Marketing, klare Prozesse und transparente Ergebnisse. Die Zusammenarbeit hat unser Unternehmen auf das nächste Level gebracht.“"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                            lineNumber: 222,
+                                                            lineNumber: 210,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -10410,65 +10385,55 @@ function Testimonials() {
                                                                     className: "user-thumb"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                    lineNumber: 229,
+                                                                    lineNumber: 216,
                                                                     columnNumber: 25
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                     className: "user-info",
-                                                                    children: [
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                                                                            className: "name",
-                                                                            children: "Wade Warren"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 233,
-                                                                            columnNumber: 27
-                                                                        }, this),
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                            className: "designation",
-                                                                            children: "DESIGNER"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                            lineNumber: 234,
-                                                                            columnNumber: 27
-                                                                        }, this)
-                                                                    ]
-                                                                }, void 0, true, {
+                                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                                                        className: "name",
+                                                                        children: "Sophie Krüger"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
+                                                                        lineNumber: 218,
+                                                                        columnNumber: 27
+                                                                    }, this)
+                                                                }, void 0, false, {
                                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                                    lineNumber: 232,
+                                                                    lineNumber: 217,
                                                                     columnNumber: 25
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                            lineNumber: 228,
+                                                            lineNumber: 215,
                                                             columnNumber: 23
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                    lineNumber: 211,
+                                                    lineNumber: 199,
                                                     columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                                lineNumber: 210,
+                                                lineNumber: 198,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                            lineNumber: 209,
+                                            lineNumber: 197,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                    lineNumber: 84,
+                                    lineNumber: 86,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/components/sections/Home3/Testimonials.tsx",
-                                lineNumber: 83,
+                                lineNumber: 85,
                                 columnNumber: 13
                             }, this)
                         ]

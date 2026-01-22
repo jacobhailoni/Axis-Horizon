@@ -1,11 +1,1 @@
-{
-  "version": 4,
-  "routes": {},
-  "dynamicRoutes": {},
-  "notFoundRoutes": [],
-  "preview": {
-    "previewModeId": "b535f8522c271837af729d4fd80a59b2",
-    "previewModeSigningKey": "e05eeb95d74ff82a4caf72ee3b39fab148f1ac7e0069f6c1286dd3676c994bff",
-    "previewModeEncryptionKey": "2d21907206c53fbc10da19d5b6b2d0e59232246308d5bb7020cd3d0f09feef8a"
-  }
-}
+{"version":4,"routes":{"/high-tech-manufacturing":{},"/financial-consulting":{},"/capital-markets":{},"/digital-media":{},"/insurance-markets":{},"/social-sector":{},"/web-development":{},"/digital-marketing":{},"/mobile-app-development":{},"/social-media-management":{},"/creative-design":{},"/ecommerce-solutions":{},"/maintenance-support":{},"/impressum":{},"/datenschutzerklaerung":{},"/agb":{},"/cookie-einstellungen":{}},"dynamicRoutes":{"/[slug]":{"dataRoute":null,"dataRouteRegex":null,"fallback":false,"fallbackRevalidate":false,"fallbackSourceRoute":"/[slug]","routeRegex":"^\\/([^/]+?)(?:\\/)?$","allowHeader":[]}},"notFoundRoutes":[],"preview":{"previewModeId":"8b945584754f546e94d50c35d4c57fca","previewModeSigningKey":"fb60e3e66d061b75de7f1049203092aed401133dc02cf1abf5000b63de198044","previewModeEncryptionKey":"98ea6f1c7da9b281518f20cbe296b9fc113dfc80d83afe4bde4830590635e31d"}}

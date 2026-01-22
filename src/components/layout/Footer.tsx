@@ -1,8 +1,7 @@
 import React from "react";
 import Link from "next/link";
 
-function Footer (){
-
+function Footer() {
   return (
     <footer className="main-footer footer-style-one overflow-hidden">
       <div className="widgets-section">
@@ -19,74 +18,127 @@ function Footer (){
             <div className="row">
               <div className="footer-column col-lg-5">
                 <div className="footer-widget about-widget wow fadeInLeft">
-                  <h1 className="title">Let’s Talk</h1>
+                  <h1 className="title">Lass uns reden</h1>
                   <div className="widget-content">
                     <div className="text">
-                      Lorem ipsum dolor sit amet, consectetuer adipiscing <br className="d-none d-xl-block" />
-                      elit sed diam nonummy.
+                      Wir helfen Unternehmen dabei, digital zu wachsen – mit
+                      klarer
+                      <br className="d-none d-xl-block" />
+                      Strategie, starkem Design und messbaren Ergebnissen.n.
                     </div>
                     <div className="social-widget">
                       <ul className="social-icon-list1">
-                        <li><Link href="/" aria-label="Twitter"><i className="fab fa-twitter" /></Link></li>
-                        <li><Link href="/" aria-label="Facebook"><i className="fab fa-facebook-f" /></Link></li>
-                        <li><Link href="/" aria-label="Pinterest"><i className="fab fa-pinterest-p" /></Link></li>
-                        <li><Link href="/" aria-label="Instagram"><i className="fab fa-instagram" /></Link></li>
+                        <li>
+                          <Link href="https://www.linkedin.com/company/axis-horizon" aria-label="LinkedIn">
+                            <i className="fab fa-linkedin-in" />
+                          </Link>
+                        </li>
+                        <li>
+                          <Link href="https://www.facebook.com/646493791872312?ref=_xav_ig_profile_page_web" aria-label="Facebook">
+                            <i className="fab fa-facebook-f" />
+                          </Link>
+                        </li>
+                        <li>
+                          <Link href="https://www.tiktok.com/@axishorizongmbh" aria-label="TikTok">
+                            <i className="fab fa-tiktok" />
+                          </Link>
+                        </li>
+                        <li>
+                          <Link href="https://www.instagram.com/axishorizonglobal/" aria-label="Instagram">
+                            <i className="fab fa-instagram" />
+                          </Link>
+                        </li>
                       </ul>
                     </div>
                   </div>
                 </div>
               </div>
               <div className="footer-column col-lg-2">
-                <div className="footer-widget links-widget col wow fadeInLeft" data-wow-delay="100ms">
+                <div
+                  className="footer-widget links-widget col wow fadeInLeft"
+                  data-wow-delay="100ms"
+                >
                   <h5 className="widget-title">Quick Link</h5>
                   <div className="widget-content">
                     <ul className="user-links">
-                      <li><Link href="/">About Us</Link></li>
-                      <li><Link href="/">Our Team</Link></li>
-                      <li><Link href="/">Our Portfolio</Link></li>
-                      <li><Link href="/">Careers</Link></li>
-                      <li><Link href="/">Contact Us</Link></li>
+                      <li>
+                        <Link href="/">About Us</Link>
+                      </li>
+                      <li>
+                        <Link href="/">Our Team</Link>
+                      </li>
+                      <li>
+                        <Link href="/">Our Portfolio</Link>
+                      </li>
+                      <li>
+                        <Link href="/">Careers</Link>
+                      </li>
+                      <li>
+                        <Link href="/">Contact Us</Link>
+                      </li>
                     </ul>
                   </div>
                 </div>
               </div>
               <div className="footer-column col-lg-5">
-                <div className="footer-widget subscribe-widget wow fadeInLeft" data-wow-delay="200ms">
-                  <h5 className="text">Get the latest inspiration & insights</h5>
+                <div
+                  className="footer-widget subscribe-widget wow fadeInLeft"
+                  data-wow-delay="200ms"
+                >
+                  <h5 className="text">
+                    Lassen Sie sich inspirieren und gewinnen Sie neue Einblicke.
+                  </h5>
                   <div className="subscribe-form-one">
                     <form method="post" action="#">
-                      <div className="form-group" style={{ position: "relative" }}>
-                        <label htmlFor="emailaddress" className="sr-only">Email Address</label>
+                      <div
+                        className="form-group"
+                        style={{ position: "relative" }}
+                      >
+                        <label htmlFor="emailaddress" className="sr-only">
+                          Email Address
+                        </label>
                         <input
                           type="email"
                           id="emailaddress"
                           name="emailaddress"
                           className="email"
-                          placeholder="Email Address"
+                          placeholder="E-Mail-Adresse"
                           required
                         />
-                        <button type="submit" className="theme-btn" aria-label="Submit email">
+                        <button
+                          type="submit"
+                          className="theme-btn"
+                          aria-label="Submit email"
+                        >
                           <i className="icon flaticon-paper-plane"></i>
                         </button>
                       </div>
                     </form>
                   </div>
                   <div className="row">
-                    <div className="footer-widget col wow fadeInLeft" data-wow-delay="400ms">
-                      <h5 className="widget-title">Address</h5>
+                    <div
+                      className="footer-widget col wow fadeInLeft"
+                      data-wow-delay="400ms"
+                    >
+                      <h5 className="widget-title">Adresse</h5>
                       <div className="widget-content">
                         <div className="text">
-                          4140 Parker Rd. Allentown, <br className="d-none d-lg-block" />
-                          New Mexico 31134
+                          Vulkanstraße 12 C,{" "}
+                          <br className="d-none d-lg-block" />
+                           10365 Berlin
                         </div>
                       </div>
                     </div>
-                    <div className="footer-widget col wow fadeInLeft" data-wow-delay="400ms">
-                      <h5 className="widget-title">Support</h5>
+                    <div
+                      className="footer-widget col wow fadeInLeft"
+                      data-wow-delay="400ms"
+                    >
+                      <h5 className="widget-title">Unterstützung</h5>
                       <div className="widget-content">
                         <div className="text">
-                          needhelp@company.com <br className="d-none d-lg-block" />
-                          (+123) 456789 00
+                          info@axishorizonglobal.de{" "}
+                          <br className="d-none d-lg-block" />
+                          +49 1521 2384897
                         </div>
                       </div>
                     </div>
@@ -100,7 +152,7 @@ function Footer (){
           <div className="container">
             <div className="inner-container justify-content-center">
               <p className="copyright-text">
-                © {new Date().getFullYear()} All rights reserved by Digitaal.com
+                © {new Date().getFullYear()} Alle Rechte vorbehalten Axishorizon GmbH
               </p>
             </div>
           </div>
@@ -108,6 +160,5 @@ function Footer (){
       </div>
     </footer>
   );
-
-};
+}
 export default Footer;
