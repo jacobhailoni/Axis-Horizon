@@ -50,10 +50,7 @@ const Header3: React.FC<HeaderProps> = ({
                       </div>
                     </div>
 
-                    <Link
-                      href="/page-contact"
-                      className="theme-btn btn-style-four"
-                    >
+                    <Link href="/contact" className="theme-btn btn-style-four">
                       <span className="btn-title">Kontaktieren sie uns</span>
                       <span className="dot-box">
                         <span className="dot-item"></span>

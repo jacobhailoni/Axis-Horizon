@@ -8,6 +8,21 @@ self.__BUILD_MANIFEST = {
   "/_error": [
     "static/chunks/pages/_error.js"
   ],
+  "/about": [
+    "static/chunks/pages/about.js"
+  ],
+  "/contact": [
+    "static/chunks/pages/contact.js"
+  ],
+  "/page-contact": [
+    "static/chunks/pages/page-contact.js"
+  ],
+  "/services": [
+    "static/chunks/pages/services.js"
+  ],
+  "/thank-you": [
+    "static/chunks/pages/thank-you.js"
+  ],
   "__rewrites": {
     "afterFiles": [],
     "beforeFiles": [],
@@ -17,31 +32,10 @@ self.__BUILD_MANIFEST = {
     "/",
     "/_app",
     "/_error",
-    "/index-2",
-    "/index-4",
-    "/index-5",
-    "/index-6",
-    "/index-7",
-    "/index-8",
-    "/news-details",
-    "/news-grid",
-    "/page-404",
-    "/page-about",
-    "/page-contact",
-    "/page-faq",
-    "/page-pricing",
-    "/page-project",
-    "/page-project-details",
-    "/page-service-details",
-    "/page-services",
-    "/page-team",
-    "/page-team-details",
-    "/page-testimonial",
-    "/shop-cart",
-    "/shop-checkout",
-    "/shop-product-details",
-    "/shop-products",
-    "/shop-products-sidebar",
+    "/about",
+    "/contact",
+    "/services",
+    "/thank-you",
     "/[slug]"
   ]
 };self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()

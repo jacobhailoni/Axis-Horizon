@@ -15,7 +15,7 @@ function ServiceDetailBySlugPage(props: PageType) {
   if (props.pageType === "policy") {
     return (
       <>
-        <Layout HeaderStyle="two">
+        <Layout HeaderStyle="three">
           <PageTitle pageName={props.policy.title} />
           <PolicyDetails policy={props.policy} />
         </Layout>
@@ -27,7 +27,7 @@ function ServiceDetailBySlugPage(props: PageType) {
 
   return (
     <>
-      <Layout HeaderStyle="two">
+      <Layout HeaderStyle="three">
         <PageTitle pageName={service.title} />
         <ServiceDetails service={service} services={serviceDetails} />
       </Layout>

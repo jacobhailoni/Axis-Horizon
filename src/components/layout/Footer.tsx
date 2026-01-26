@@ -58,23 +58,23 @@ function Footer() {
                   className="footer-widget links-widget col wow fadeInLeft"
                   data-wow-delay="100ms"
                 >
-                  <h5 className="widget-title">Quick Link</h5>
+                  <h5 className="widget-title">Unsere Leistungen</h5>
                   <div className="widget-content">
                     <ul className="user-links">
                       <li>
-                        <Link href="/">About Us</Link>
+                        <Link href="/web-development">Webentwicklung</Link>
                       </li>
                       <li>
-                        <Link href="/">Our Team</Link>
+                        <Link href="/creative-design">Kreatives Design</Link>
                       </li>
                       <li>
-                        <Link href="/">Our Portfolio</Link>
+                        <Link href="/mobile-app-development">Mobile App-Entwicklung</Link>
                       </li>
                       <li>
-                        <Link href="/">Careers</Link>
+                        <Link href="/ecommerce-solutions">E-Commerce-Lösungen</Link>
                       </li>
                       <li>
-                        <Link href="/">Contact Us</Link>
+                        <Link href="/contact">Kontakt</Link>
                       </li>
                     </ul>
                   </div>

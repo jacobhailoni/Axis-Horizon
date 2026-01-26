@@ -1,8 +1,10 @@
 import React, { useState } from "react";
+import { useRouter } from "next/router";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 
 function Contact() {
+  const router = useRouter();
   const [formData, setFormData] = useState({
     fName: "",
     eAddress: "",
@@ -80,6 +82,7 @@ function Contact() {
           meetingType: "google-meet",
         });
         setSelectedDateTime(null);
+        router.push("/thank-you");
       } else {
         setStatus({
           type: "error",

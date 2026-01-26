@@ -199,7 +199,7 @@ function ServiceSection() {
                 Strategie und Design bis zur Umsetzung und Betreuung – alles aus
                 einer Hand.
               </div>
-              <Link href="/page-services" className="theme-btn btn-style-four">
+              <Link href="/services" className="theme-btn btn-style-four">
                 <span className="btn-title">Alle Leistungen</span>
                 <span className="dot-box">
                   <span className="dot-item"></span>
@@ -246,7 +246,7 @@ function ServiceSection() {
                               />
                             </figure>
                             <div className="icon-box">
-                              <Link href="/page-service-details">
+                              <Link href="/services">
                                 <i className="icon flaticon-right-down"></i>
                               </Link>
                             </div>

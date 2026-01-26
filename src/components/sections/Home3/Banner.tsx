@@ -40,10 +40,7 @@ function Banner() {
                         datenbasierten Lösungen, um nachhaltiges Wachstum für
                         Ihr Unternehmen zu erzielen.
                       </div>
-                      <Link
-                        href="/page-contact"
-                        className="theme-btn btn-style-four"
-                      >
+                      <Link href="/contact" className="theme-btn btn-style-four">
                         <span className="btn-title">JETZT ANFRAGEN</span>
                         <span className="dot-box">
                           <span className="dot-item"></span>

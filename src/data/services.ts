@@ -28,7 +28,7 @@ export const serviceDetails: ServiceDetailData[] = [
   {
     slug: "web-development",
     title: "Webentwicklung",
-    heroImage: "assets/images/resource/service-details.jpg",
+    heroImage: "assets/images/resource/web development 1.jpg",
     overviewTitle: "Professionelle Webentwicklungs-Services",
     overview: [
       "Verwandeln Sie Ihre Geschäftsidee in eine starke digitale Präsenz mit unseren umfassenden Webentwicklungs-Services. Wir sind spezialisiert auf die Entwicklung individueller Websites, Web-Applikationen und digitaler Plattformen für kleine Unternehmen und Startups. Unser Entwicklerteam nutzt moderne Technologien wie React, Angular, Vue.js, Node.js, PHP, Python und .NET, um skalierbare, sichere und leistungsstarke Lösungen zu realisieren.",
@@ -41,12 +41,12 @@ export const serviceDetails: ServiceDetailData[] = [
       "Ihre Website ist Ihr digitales Schaufenster. Wir entwickeln Lösungen, die Besucher in Kunden verwandeln.",
     features: [
       {
-        image: "assets/images/resource/service-d1.jpg",
+        image: "assets/images/resource/web development 2.jpg",
         text: "Individuelle Web-Applikationen mit modernen Frameworks wie React, Angular, Vue.js und Next.js für maximale Performance und Skalierbarkeit.",
         alt: "Individuelle Webentwicklung"
       },
       {
-        image: "assets/images/resource/service-d2.jpg",
+        image: "assets/images/resource/web development 2.jpg",
         text: "Responsives Webdesign für alle Geräte. Mobile-First-Ansatz, schnelle Ladezeiten und optimale Nutzererlebnisse auf Desktop, Tablet und Smartphone.",
         alt: "Responsives Webdesign"
       }
@@ -80,7 +80,7 @@ export const serviceDetails: ServiceDetailData[] = [
   {
     slug: "digital-marketing",
     title: "Digitales Marketing",
-    heroImage: "assets/images/resource/service-details.jpg",
+    heroImage: "assets/images/resource/service-digital-marketing.png",
     overviewTitle: "Ergebnisorientierte Digital-Marketing-Services",
     overview: [
       "Steigern Sie Ihr Wachstum mit datenbasierten Digital-Marketing-Strategien für kleine Unternehmen und Startups. Wir bieten SEO, PPC-Werbung, Content-Marketing, E-Mail-Marketing, Conversion-Optimierung und Online-Reputationsmanagement.",
@@ -93,12 +93,12 @@ export const serviceDetails: ServiceDetailData[] = [
       "Digitales Marketing bedeutet nicht nur online zu sein – sondern gefunden und gewählt zu werden.",
     features: [
       {
-        image: "assets/images/resource/service-d1.jpg",
+        image: "",
         text: "Suchmaschinenoptimierung für bessere Rankings, mehr organischen Traffic und nachhaltige Sichtbarkeit bei Google.",
         alt: "SEO-Services"
       },
       {
-        image: "assets/images/resource/service-d2.jpg",
+        image: "",
         text: "Gezielte PPC-Kampagnen auf Google, Facebook, Instagram und LinkedIn mit optimierten Kosten und hoher Conversion-Rate.",
         alt: "PPC-Werbung"
       }
@@ -132,7 +132,7 @@ export const serviceDetails: ServiceDetailData[] = [
   {
     slug: "mobile-app-development",
     title: "Mobile App Entwicklung",
-    heroImage: "assets/images/resource/service-details.jpg",
+    heroImage: "assets/images/resource/service-mobile-app-development.png",
     overviewTitle: "Professionelle Mobile-App-Entwicklung",
     overview: [
       "Wir entwickeln leistungsstarke mobile Apps für iOS, Android und Cross-Platform. Ideal für Startups und Unternehmen, die digitale Produkte skalieren möchten.",
@@ -145,12 +145,12 @@ export const serviceDetails: ServiceDetailData[] = [
       "In einer mobilen Welt ist Ihre App der direkte Draht zu Ihren Kunden.",
     features: [
       {
-        image: "assets/images/resource/service-d1.jpg",
+        image: "",
         text: "Cross-Platform-Apps mit React Native und Flutter für iOS und Android mit einer gemeinsamen Codebasis.",
         alt: "Cross-Platform App-Entwicklung"
       },
       {
-        image: "assets/images/resource/service-d2.jpg",
+        image: "",
         text: "Native iOS- und Android-Apps für höchste Performance und Geräteintegration.",
         alt: "Native App-Entwicklung"
       }
@@ -184,7 +184,7 @@ export const serviceDetails: ServiceDetailData[] = [
   {
     slug: "social-media-management",
     title: "Social-Media-Management",
-    heroImage: "assets/images/resource/service-details.jpg",
+    heroImage: "assets/images/resource/service-social-media-management.png",
     overviewTitle: "Professionelles Social-Media-Management",
     overview: [
       "Wir betreuen Ihre Social-Media-Kanäle strategisch und kreativ – von Content-Planung bis Community-Management.",
@@ -197,12 +197,12 @@ export const serviceDetails: ServiceDetailData[] = [
       "Social Media lebt von Beziehungen – nicht nur von Beiträgen.",
     features: [
       {
-        image: "assets/images/resource/service-d1.jpg",
+        image: "",
         text: "Content-Erstellung mit Grafiken, Videos, Reels und Texten für jede Plattform.",
         alt: "Social-Media-Content"
       },
       {
-        image: "assets/images/resource/service-d2.jpg",
+        image: "",
         text: "Community-Management und aktiver Dialog mit Ihrer Zielgruppe.",
         alt: "Community Management"
       }
@@ -236,7 +236,7 @@ export const serviceDetails: ServiceDetailData[] = [
   {
     slug: "creative-design",
     title: "Kreatives Design",
-    heroImage: "assets/images/resource/service-details.jpg",
+    heroImage: "assets/images/resource/service-creative-design.png",
     overviewTitle: "Professionelle Design-Services",
     overview: [
       "Wir gestalten starke Markenauftritte mit Fokus auf Wiedererkennung und Conversion.",
@@ -249,12 +249,12 @@ export const serviceDetails: ServiceDetailData[] = [
       "Design ist die visuelle Stimme Ihrer Marke.",
     features: [
       {
-        image: "assets/images/resource/service-d1.jpg",
+        image: "",
         text: "Branding, Logos, Farben, Typografie und Design-Guidelines.",
         alt: "Brand Design"
       },
       {
-        image: "assets/images/resource/service-d2.jpg",
+        image: "",
         text: "UI/UX-Design für Websites und Apps mit Fokus auf Nutzerfreundlichkeit.",
         alt: "UI UX Design"
       }
@@ -288,7 +288,7 @@ export const serviceDetails: ServiceDetailData[] = [
   {
     slug: "ecommerce-solutions",
     title: "E-Commerce-Lösungen",
-    heroImage: "assets/images/resource/service-details.jpg",
+    heroImage: "assets/images/resource/service-ecommerce-solutions.png",
     overviewTitle: "Professionelle E-Commerce-Entwicklung",
     overview: [
       "Wir entwickeln verkaufsstarke Online-Shops mit Shopify, WooCommerce, Magento und individuellen Lösungen.",
@@ -301,12 +301,12 @@ export const serviceDetails: ServiceDetailData[] = [
       "Ihr Online-Shop ist Ihr Verkäufer – rund um die Uhr.",
     features: [
       {
-        image: "assets/images/resource/service-d1.jpg",
+        image: "",
         text: "Individuelle Shop-Funktionen wie Produktvarianten, Rabatte und Warenkorb-Optimierung.",
         alt: "E-Commerce Entwicklung"
       },
       {
-        image: "assets/images/resource/service-d2.jpg",
+        image: "",
         text: "Sichere Zahlungsintegration mit Kreditkarten, Wallets und lokalen Anbietern.",
         alt: "Zahlungsintegration"
       }
@@ -340,7 +340,7 @@ export const serviceDetails: ServiceDetailData[] = [
   {
     slug: "maintenance-support",
     title: "Wartung & Support",
-    heroImage: "assets/images/resource/service-details.jpg",
+    heroImage: "assets/images/resource/service-maintenance-support.png",
     overviewTitle: "Zuverlässige Wartungs- und Support-Services",
     overview: [
       "Wir sorgen dafür, dass Ihre Website, App oder Plattform sicher, schnell und stabil läuft.",
@@ -353,12 +353,12 @@ export const serviceDetails: ServiceDetailData[] = [
       "Regelmäßige Wartung verhindert teure Ausfälle.",
     features: [
       {
-        image: "assets/images/resource/service-d1.jpg",
+        image: "",
         text: "Sicherheitsüberwachung, Backups und Schutz vor Cyber-Bedrohungen.",
         alt: "Sicherheitswartung"
       },
       {
-        image: "assets/images/resource/service-d2.jpg",
+        image: "",
         text: "Performance-Optimierung für schnelle Ladezeiten und bessere Nutzererlebnisse.",
         alt: "Performance Optimierung"
       }

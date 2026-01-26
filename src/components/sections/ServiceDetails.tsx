@@ -16,7 +16,7 @@ const ServiceDetails: React.FC<ServiceDetailsProps> = ({
     <section className="services-details pt-120 pb-90">
       <div className="container">
         <div className="row">
-          <div className="col-xl-4 col-lg-4">
+          <div className="col-xl-4 col-lg-4 order-2 order-lg-1">
             <div className="service-sidebar">
               <div className="sidebar-widget service-sidebar-single">
                 <div className="sidebar-service-list">
@@ -67,7 +67,7 @@ const ServiceDetails: React.FC<ServiceDetailsProps> = ({
               </div>
             </div>
           </div>
-          <div className="col-xl-8 col-lg-8">
+          <div className="col-xl-8 col-lg-8 order-1 order-lg-2">
             <div className="services-details__content position-relative overflow-hidden px-3">
               <img
                 className="w-100"
@@ -93,14 +93,40 @@ const ServiceDetails: React.FC<ServiceDetailsProps> = ({
                     {service.features.map((feature, index) => (
                       <div
                         className="col-lg-6 col-md-6 col-sm-12 column"
+                        // style={
+                        //   index === 1
+                        //     ? { backgroundColor: "var(--theme-color1)" }
+                        //     : undefined
+                        // }
                         key={index}
                       >
-                        <img
-                          className="mb-3 w-100"
-                          src={feature.image}
-                          alt={feature.alt || service.title}
-                        />
-                        <p className="text">{feature.text}</p>
+                        <div
+                          className="h-100 text-center"
+                          style={{
+                            padding: "24px",
+                            borderRadius: "16px",
+                            boxShadow: "0 10px 30px rgba(0, 0, 0, 0.12)",
+                            backgroundColor:
+                              index === 1 ? "var(--theme-color1)" : undefined,
+                            backgroundImage:
+                              index === 1
+                                ? "radial-gradient(rgb(0, 0, 0, 0.18) 1px, transparent 1px)"
+                                : undefined,
+                            backgroundSize: index === 1 ? "18px 18px" : undefined,
+                            color: index === 1 ? "#000000" : undefined,
+                          }}
+                        >
+                          {feature.image?.trim() ? (
+                            <img
+                              className="mb-3 w-100"
+                              src={feature.image}
+                              alt={feature.alt || service.title}
+                            />
+                          ) : null}
+                          <p className="text" style={{
+                            color: index === 1 ? "#000000" : undefined,
+                          }}>{feature.text}</p>
+                        </div>
                       </div>
                     ))}
                   </div>

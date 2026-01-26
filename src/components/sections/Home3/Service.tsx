@@ -102,7 +102,7 @@ const Service: React.FC<ServiceProps> = ({ className }) => {
                 >
                   <div className="content-box">
                     <h4 className="title">
-                      <Link href="/page-service-details">{item.title}</Link>
+                      <Link href={item.url}>{item.title}</Link>
                     </h4>
                     <div className="category">{item.category}</div>
                     <div className="icon-box">

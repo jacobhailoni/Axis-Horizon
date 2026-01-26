@@ -86,23 +86,20 @@ function Footer3() {
                 <h5 className="widget-title">Unsere Leistungen</h5>
                 <ul className="user-links">
                   <li>
-                    <Link href="/">Webentwicklung</Link>
-                  </li>
-                  <li>
-                    <Link href="/">UI/UX Design</Link>
-                  </li>
-                  <li>
-                    <Link href="/">Mobile App-Entwicklung</Link>
-                  </li>
-                  <li>
-                    <Link href="/">Digitales Marketing</Link>
-                  </li>
-                  <li>
-                    <Link href="/">SEO-Optimierung</Link>
-                  </li>
-                  <li>
-                    <Link href="/">E-Commerce-Lösungen</Link>
-                  </li>
+                        <Link href="/web-development">Webentwicklung</Link>
+                      </li>
+                      <li>
+                        <Link href="/creative-design">Kreatives Design</Link>
+                      </li>
+                      <li>
+                        <Link href="/mobile-app-development">Mobile App-Entwicklung</Link>
+                      </li>
+                      <li>
+                        <Link href="/ecommerce-solutions">E-Commerce-Lösungen</Link>
+                      </li>
+                      <li>
+                        <Link href="/contact">Kontakt</Link>
+                      </li>
                 </ul>
               </div>
             </div>

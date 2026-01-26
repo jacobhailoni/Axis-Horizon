@@ -1,11 +1,11 @@
 __turbopack_load_page_chunks__("/", [
-  "static/chunks/node_modules_aos_dist_aos_585e6b84.js",
-  "static/chunks/[root-of-the-server]__64c8420d._.js",
+  "static/chunks/node_modules_aos_dist_aos_ec42c87a.js",
+  "static/chunks/[root-of-the-server]__3c76a50c._.js",
   "static/chunks/node_modules_next_dist_compiled_8ca6b690._.js",
   "static/chunks/node_modules_next_dist_shared_lib_1e3a4f5d._.js",
   "static/chunks/node_modules_next_dist_client_881bc7f7._.js",
   "static/chunks/node_modules_next_dist_41ce5ee3._.js",
-  "static/chunks/node_modules_next_eda16823._.js",
+  "static/chunks/node_modules_next_6ae0c6e3._.js",
   "static/chunks/node_modules_react_e3593a73._.js",
   "static/chunks/node_modules_react-dom_cjs_react-dom_development_2b5e0eb3.js",
   "static/chunks/node_modules_react-dom_8a8085df._.js",
@@ -19,5 +19,5 @@ __turbopack_load_page_chunks__("/", [
   "static/chunks/node_modules_cd587526._.js",
   "static/chunks/node_modules_faf12524._.css",
   "static/chunks/src_pages_index_2da965e7._.js",
-  "static/chunks/turbopack-src_pages_index_05f20600._.js"
+  "static/chunks/turbopack-src_pages_index_b634e138._.js"
 ])
