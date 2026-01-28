@@ -26,7 +26,7 @@ PRODID:-//Axis Horizon//Meeting Scheduler//EN
 CALSCALE:GREGORIAN
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:${Date.now()}@axishorizon.com
+UID:${Date.now()}@axishorizonglobal.com
 DTSTAMP:${formatICSDate(new Date())}
 DTSTART:${formatICSDate(startDate)}
 DTEND:${formatICSDate(endDate)}
